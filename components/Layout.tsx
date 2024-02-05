@@ -1,17 +1,20 @@
 "use client";
-import { useState } from "react";
+import { useRef, useState } from "react";
 import { Menu, NavItem } from "./Menu";
 import Image from "next/image";
 import BgImage from "../images/bg.webp";
 import Logo from "../images/logo.svg";
 import { usePathname } from "next/navigation";
 import Link from "next/link";
+import useOnClickOutside from "use-onclickoutside";
 
 export const Layout: React.FC<{
   children?: React.ReactNode;
   navigation?: NavItem[];
 }> = ({ children, navigation }) => {
   const [isMenuOpened, setIsMenuOpened] = useState(false);
+  const ref = useRef(null);
+  useOnClickOutside(ref, () => setIsMenuOpened(false));
 
   const pathname = usePathname();
   const isHome = pathname === "/";
@@ -32,7 +35,7 @@ export const Layout: React.FC<{
       <div className="relative flex min-h-screen w-screen flex-col justify-between p-10">
         <header className="flex-start mb-8 flex justify-between">
           {isMenuOpened || !isHome ? (
-            navigation && <Menu items={navigation} />
+            navigation && <Menu items={navigation} ref={ref} />
           ) : (
             <h1 className="inline-block text-[2rem] font-bold uppercase">
               Skautský lesní kurz <strong className="text-6xl">Veronica</strong>
