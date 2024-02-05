@@ -15,20 +15,20 @@ export default async function Page({ params }: { params: { slug: string } }) {
   if (pages.__typename === "PagesTeam") {
     const { title, members } = pages;
     const member = params.slug[1]
-      ? members?.find(({ name }) => webalize(name) === params.slug[1])
+      ? members?.find((m) => webalize(m?.name) === params.slug[1])
       : null;
     return (
       <>
         <h1 className="mb-8 font-bold">{title}</h1>
         {members && (
           <div className="mb-8">
-            {members.map(({ name }, index) => (
-              <React.Fragment key={name}>
+            {members.map((m, index) => (
+              <React.Fragment key={m?.name}>
                 <Link
                   className={name === member?.name ? "text-white" : ""}
                   href={`/${params.slug[0]}/${webalize(name)}`}
                 >
-                  {name}
+                  {m?.name}
                 </Link>
                 {index + 1 !== members.length ? ", " : "."}
               </React.Fragment>
