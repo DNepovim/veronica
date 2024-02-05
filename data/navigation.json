@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "title": "Přihlašování",
+      "link": "content/pages/o-nas.md"
+    },
+    {
+      "title": "O nás",
+      "link": "content/pages/o-nas.md"
+    },
+    {
+      "title": "Aktuality",
+      "link": "content/pages/aktuality.md"
+    },
+    {
+      "title": "Tým",
+      "link": "content/pages/tym.md"
+    },
+    {
+      "title": "Termíny",
+      "link": "content/pages/o-nas.md"
+    },
+    {
+      "title": "Kontakty",
+      "link": "content/pages/o-nas.md"
+    }
+  ]
+}

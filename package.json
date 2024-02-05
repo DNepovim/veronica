@@ -3,20 +3,23 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
+    "dev": "tinacms dev -c \"next dev\"",
+    "build": "tinacms build && next build",
+    "build:web": "next build",
+    "start": "tinacms build && next start",
     "lint": "next lint"
   },
   "dependencies": {
     "next": "14.0.3",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "tinacms": "^1.5.28"
   },
   "devDependencies": {
     "@babel/core": "^7.23.5",
     "@babel/preset-react": "^7.23.3",
-    "@types/node": "^20",
+    "@tinacms/cli": "^1.5.39",
+    "@types/node": "^20.11.10",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "autoprefixer": "^10.0.1",
