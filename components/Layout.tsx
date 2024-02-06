@@ -47,12 +47,18 @@ export const Layout: React.FC<{
         </header>
         {isHome && (
           <div className="flex justify-between">
-            <button
-              onClick={() => setIsMenuOpened(!isMenuOpened)}
-              className="bold rounded-def bg-black px-4 pt-1 text-xl uppercase text-white"
-            >
-              Menu
-            </button>
+            {isMenuOpened ? (
+              <div className="bold cursor-pointer rounded-def bg-black px-4 pt-1 text-xl uppercase text-white">
+                X
+              </div>
+            ) : (
+              <button
+                onClickCapture={() => setIsMenuOpened(true)}
+                className="bold rounded-def bg-black px-4 pt-1 text-xl uppercase text-white"
+              >
+                Menu
+              </button>
+            )}
           </div>
         )}
         {!isHome && (
