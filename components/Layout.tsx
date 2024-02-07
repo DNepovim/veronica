@@ -3,10 +3,11 @@ import { useRef, useState } from "react";
 import { Menu, NavItem } from "./Menu";
 import Image from "next/image";
 import BgImage from "../images/bg.webp";
-import Logo from "../images/logo.svg";
 import { usePathname } from "next/navigation";
 import Link from "next/link";
 import useOnClickOutside from "use-onclickoutside";
+import { Logo } from "./Logo";
+import { Button } from "./Button";
 
 export const Layout: React.FC<{
   children?: React.ReactNode;
@@ -41,26 +42,17 @@ export const Layout: React.FC<{
           {isMenuOpened || !isHome ? (
             navigation && <Menu items={navigation} ref={ref} />
           ) : (
-            <h1 className="inline-block text-[2rem] font-bold uppercase">
-              Skautský lesní kurz <strong className="text-6xl">Veronica</strong>
+            <h1 className="inline-block text-3xl font-bold uppercase">
+              Skautský lesní kurz <strong className="text-7xl">Veronica</strong>
             </h1>
           )}
           <Link href="/">
-            <Image src={Logo} alt="logo" width="200" height="200" />
+            <Logo hoover={isMenuOpened || !isHome} />
           </Link>
         </header>
         {isHome && (
           <div className="flex justify-between">
-            {isMenuOpened ? (
-              <div className="bold cursor-pointer rounded-def bg-black px-4 pt-1 text-xl uppercase text-white">X</div>
-            ) : (
-              <button
-                onClickCapture={() => setIsMenuOpened(true)}
-                className="bold rounded-def bg-black px-4 pt-1 text-xl uppercase text-white"
-              >
-                Menu
-              </button>
-            )}
+            {isMenuOpened ? <Button ghost>X</Button> : <Button onClick={() => setIsMenuOpened(true)}>Menu</Button>}
           </div>
         )}
         {!isHome && (
