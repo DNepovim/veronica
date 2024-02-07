@@ -13,7 +13,7 @@ export const Team: React.FC<PagesTeamTeams & { currentUrl: string; activeItem: s
 }) => {
   const filteredMembers = members?.filter((m): m is Exclude<typeof m, null> => m !== null) ?? [];
   return (
-    <section>
+    <section className="mb-8">
       <H2 id={webalize(name ?? "")}>{name}</H2>
       {filteredMembers.map((m) => (
         <React.Fragment key={m.name}>

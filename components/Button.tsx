@@ -5,7 +5,7 @@ export const Button: React.FC<{ children: React.ReactNode; onClick?: () => void;
   onClick,
   ghost,
 }) => {
-  const className = `bold rounded-def border-4 border-black  px-4 pt-1 text-xl uppercase  ${
+  const className = `font-bold rounded-def border-4 border-black  px-4 pt-1 text-xl uppercase  ${
     ghost
       ? "backdrop-blur hover:bg-black hover:text-white"
       : "bg-black text-white hover:bg-transparent hover:text-black hover:backdrop-blur"
@@ -15,6 +15,6 @@ export const Button: React.FC<{ children: React.ReactNode; onClick?: () => void;
       {children}
     </button>
   ) : (
-    <div className={`${className} pointer`}>{children}</div>
+    <div className={`${className} cursor-pointer`}>{children}</div>
   );
 };
