@@ -3,6 +3,7 @@ import { webalize } from "@/utils/webalize";
 import Link from "next/link";
 import React from "react";
 import { Person } from "./Person";
+import { H2 } from "./Typography";
 
 export const Team: React.FC<PagesTeamTeams & { currentUrl: string; activeItem: string }> = ({
   name,
@@ -13,7 +14,7 @@ export const Team: React.FC<PagesTeamTeams & { currentUrl: string; activeItem: s
   const filteredMembers = members?.filter((m): m is Exclude<typeof m, null> => m !== null) ?? [];
   return (
     <section>
-      <h2 id={webalize(name ?? "")}>{name}</h2>
+      <H2 id={webalize(name ?? "")}>{name}</H2>
       {filteredMembers.map((m) => (
         <React.Fragment key={m.name}>
           <Link

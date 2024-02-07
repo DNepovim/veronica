@@ -1,10 +1,13 @@
 ---
-title: Ročník 2024
+title: Přihlašování
 text: >
+  # Ročník 2024
+
+
   Přihlašování  bude spuštěno 1. 1. 2024 v 00.00
 
 
-  ## Pro koho je kurz určen:
+  # Pro koho je kurz určen:
 
 
   Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur bibendum
@@ -12,7 +15,7 @@ text: >
   metus id velit ullamcorper pulvinar.
 
 
-  ## Cena:
+  # Cena:
 
 
   Cena letošního kurzu bude okolo 2800,-

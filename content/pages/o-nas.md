@@ -1,6 +1,9 @@
 ---
 title: O nás
 text: >
+  # Kdo je Veronica?
+
+
   Veronica je sebe rozvojový kurz pro skauty a skautky, kteří se chystají
   absolvovat vůdcovskou zkoušku, nebo se prostě jen dozvědět něco o sobě a světu
   kolem nich. Za svých třiadvacet let si prošla personifikací jako malokterý
@@ -32,3 +35,4 @@ text: >
   Kompas Brno, z. s, vůdkyní kurzu je Delfín – Anna Bláhová.
 _template: page
 ---
+

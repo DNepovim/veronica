@@ -9555,11 +9555,6 @@ watchpack@2.4.0:
     glob-to-regexp "^0.4.1"
     graceful-fs "^4.1.2"
 
-webalize@^0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/webalize/-/webalize-0.1.0.tgz#8b716fa436cfb7e11875009ed5f99e2f21801186"
-  integrity sha512-nJ+8EH01kZkp35V5yW0wViuFCvO0wZr6pzn4zG/BOHhonEFjwFf1vFZE7UhT9Paj6pt6kdEFVl7U9R3Dgjw+Ww==
-
 webfontloader@1.6.28:
   version "1.6.28"
   resolved "https://registry.yarnpkg.com/webfontloader/-/webfontloader-1.6.28.tgz#db786129253cb6e8eae54c2fb05f870af6675bae"

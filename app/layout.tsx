@@ -1,4 +1,3 @@
-import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
 import { Layout } from "@/components/Layout";
@@ -10,12 +9,6 @@ const PPFormulaFont = localFont({
     { weight: "normal", path: "./../fonts/PPFormula-SemiCondensedMedium.otf" },
   ],
 });
-
-export const metadata: Metadata = {
-  title: "Skautský lesní kurz Veronica",
-  // TODO add description
-  description: "",
-};
 
 export default async function RootLayout({ children }: { children: React.ReactNode }) {
   const {

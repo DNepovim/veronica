@@ -1,7 +1,37 @@
+import { RichText } from "@/components/RichText";
 import { TeamsPage } from "@/components/TeamsPage";
 import client from "@/tina/__generated__/client";
+import { webalize } from "@/utils/webalize";
+import { Metadata } from "next";
 import React from "react";
-import { TinaMarkdown } from "tinacms/dist/rich-text";
+
+export async function generateMetadata({ params }: { params: { slug: string[] } }): Promise<Metadata> {
+  const [currentUrl, activeItem] = params.slug;
+  const {
+    data: { pages },
+  } = await client.queries.pages({
+    relativePath: `${currentUrl}.md`,
+  });
+
+  if (pages.__typename === "PagesTeam") {
+    const allMembers =
+      pages.teams?.flatMap((t) => t?.members ?? []).filter((m): m is Exclude<typeof m, null> => m !== null) ?? [];
+    const activeMember = allMembers.find((m) => webalize(m.name) === activeItem);
+
+    const title = activeMember ? activeMember.name : pages.title;
+
+    return {
+      title: `${title} | Veronica`,
+      // TODO add description
+      description: "",
+    };
+  }
+  return {
+    title: `${pages.title} | Veronica`,
+    // TODO add description
+    description: "",
+  };
+}
 
 export default async function Page({ params }: { params: { slug: string } }) {
   const [currentUrl, activeItem] = params.slug;
@@ -17,10 +47,5 @@ export default async function Page({ params }: { params: { slug: string } }) {
   }
 
   const { title, text } = pages;
-  return (
-    <>
-      <h1 className="mb-8 font-bold">{title}</h1>
-      <TinaMarkdown content={text} />
-    </>
-  );
+  return <RichText content={text} />;
 }
