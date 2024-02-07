@@ -93,14 +93,9 @@ export default defineConfig({
                 required: true,
               },
               {
-                type: "rich-text",
-                name: "text",
-                label: "Text",
-              },
-              {
                 type: "object",
-                name: "members",
-                label: "Členové",
+                name: "teams",
+                label: "Týmy",
                 list: true,
                 ui: {
                   itemProps: (item) => ({ label: item.name }),
@@ -109,18 +104,34 @@ export default defineConfig({
                   {
                     type: "string",
                     name: "name",
-                    label: "Jméno",
-                    required: true,
+                    label: "Název",
                   },
                   {
-                    type: "rich-text",
-                    name: "text",
-                    label: "Popis",
-                  },
-                  {
-                    type: "image",
-                    name: "image",
-                    label: "Fotka",
+                    type: "object",
+                    name: "members",
+                    label: "Členové",
+                    list: true,
+                    ui: {
+                      itemProps: (item) => ({ label: item.name }),
+                    },
+                    fields: [
+                      {
+                        type: "string",
+                        name: "name",
+                        label: "Jméno",
+                        required: true,
+                      },
+                      {
+                        type: "rich-text",
+                        name: "text",
+                        label: "Popis",
+                      },
+                      {
+                        type: "image",
+                        name: "image",
+                        label: "Fotka",
+                      },
+                    ],
                   },
                 ],
               },

@@ -1,10 +1,6 @@
 {
   "items": [
     {
-      "title": "Přihlašování",
-      "link": "content/pages/o-nas.md"
-    },
-    {
       "title": "O nás",
       "link": "content/pages/o-nas.md"
     },
@@ -18,11 +14,15 @@
     },
     {
       "title": "Termíny",
-      "link": "content/pages/o-nas.md"
+      "link": "content/pages/terminy.md"
     },
     {
       "title": "Kontakty",
-      "link": "content/pages/o-nas.md"
+      "link": "content/pages/kontakty.md"
+    },
+    {
+      "title": "Přihlašování",
+      "link": "content/pages/prihlasovani.md"
     }
   ]
 }

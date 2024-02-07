@@ -17,11 +17,7 @@ export const metadata: Metadata = {
   description: "",
 };
 
-export default async function RootLayout({
-  children,
-}: {
-  children: React.ReactNode;
-}) {
+export default async function RootLayout({ children }: { children: React.ReactNode }) {
   const {
     data: {
       navigation: { items: navigation },

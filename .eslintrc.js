@@ -6,6 +6,7 @@ module.exports = {
       "error",
       {
         endOfLine: "auto",
+        printWidth: 130,
         plugins: ["prettier-plugin-tailwindcss"],
       },
     ],
