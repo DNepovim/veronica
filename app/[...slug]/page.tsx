@@ -7,20 +7,28 @@ import React from "react";
 
 export async function generateStaticParams() {
   const pagesConnection = await client.queries.pagesConnection();
-  const pages = pagesConnection.data.pagesConnection.edges?.flatMap((p) => {
-    if (p?.node?.__typename === "PagesTeam") {
-      return p?.node?.teams?.flatMap(
-        (t) => t?.members?.map((m) => ({ slug: [p?.node?._sys.filename, webalize(m?.name ?? "")] })),
-      );
-    }
-    return { slug: [p?.node?._sys.filename] };
-  });
+  const pages =
+    pagesConnection.data.pagesConnection.edges
+      ?.flatMap((p) => {
+        if (p?.node?.__typename === "PagesTeam") {
+          return p?.node?.teams?.flatMap(
+            (t) => t?.members?.map((m) => ({ slug: [p?.node?._sys.filename, webalize(m?.name ?? "")] })),
+          );
+        }
+        return { slug: [p?.node?._sys.filename] };
+      })
+      .filter((p): p is Exclude<typeof p, null | undefined> => p !== null && p !== undefined) ?? [];
 
   return pages;
 }
 
 export async function generateMetadata({ params }: { params: { slug: string[] } }): Promise<Metadata> {
   const [currentUrl, activeItem] = params.slug;
+
+  const { data: siteConfig } = await client.queries.configuration({ relativePath: "siteConfig.json" });
+
+  const { title, description } = siteConfig.configuration;
+
   const {
     data: { pages },
   } = await client.queries.pages({
@@ -35,15 +43,13 @@ export async function generateMetadata({ params }: { params: { slug: string[] } 
     const title = activeMember ? activeMember.name : pages.title;
 
     return {
-      title: `${title} | Veronica`,
-      // TODO add description
-      description: "",
+      title: `${title} | ${title}`,
+      description,
     };
   }
   return {
-    title: `${pages.title} | Veronica`,
-    // TODO add description
-    description: "",
+    title: `${pages.title} | ${title}`,
+    description,
   };
 }
 
@@ -60,6 +66,6 @@ export default async function Page({ params }: { params: { slug: string } }) {
     return <TeamsPage teams={filteredTeams} {...{ currentUrl, activeItem }} />;
   }
 
-  const { title, text } = pages;
+  const { text } = pages;
   return <RichText content={text} />;
 }

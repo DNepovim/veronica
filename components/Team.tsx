@@ -2,8 +2,9 @@ import { PagesTeamTeams } from "@/tina/__generated__/types";
 import { webalize } from "@/utils/webalize";
 import Link from "next/link";
 import React from "react";
-import { Person } from "./Person";
+import { Member } from "./Member";
 import { H2 } from "./Typography";
+import { isMemberActive } from "@/utils/isMemberActive";
 
 export const Team: React.FC<PagesTeamTeams & { currentUrl: string; activeItem: string }> = ({
   name,
@@ -15,21 +16,20 @@ export const Team: React.FC<PagesTeamTeams & { currentUrl: string; activeItem: s
   return (
     <section className="mb-8">
       <H2 id={webalize(name ?? "")}>{name}</H2>
-      {filteredMembers.map((m) => (
-        <React.Fragment key={m.name}>
-          <Link
-            className={activeItem && webalize(m.name) === webalize(activeItem) ? "text-white" : ""}
-            href={`/${currentUrl}/${webalize(m.name ?? "")}#${webalize(name ?? "")}`}
-          >
-            {m.name}
-          </Link>
-          ,{" "}
-        </React.Fragment>
-      ))}
-      {activeItem &&
-        filteredMembers
-          .filter((m) => webalize(m?.name ?? "") === webalize(activeItem))
-          .map((m) => <Person key={m.name} {...m} />)}
+      <div className="mb-8">
+        {filteredMembers.map((m, i) => (
+          <React.Fragment key={m.name}>
+            <Link
+              className={`${isMemberActive(m, activeItem) ? "text-white" : ""} text-xl font-bold sm:text-2xl`}
+              href={`/${currentUrl}/${webalize(m.name ?? "")}#${webalize(name ?? "")}`}
+            >
+              {m.name}
+            </Link>
+            {i < filteredMembers.length - 1 ? ", " : "."}
+          </React.Fragment>
+        ))}
+      </div>
+      {activeItem && filteredMembers.filter((m) => isMemberActive(m, activeItem)).map((m) => <Member key={m.name} {...m} />)}
     </section>
   );
 };

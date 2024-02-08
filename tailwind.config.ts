@@ -5,6 +5,8 @@ const config: Config = {
   content: ["./pages/**/*.{js,ts,jsx,tsx,mdx}", "./components/**/*.{js,ts,jsx,tsx,mdx}", "./app/**/*.{js,ts,jsx,tsx,mdx}"],
   theme: {
     screens: {
+      sm: "700px",
+      md: "900px",
       lg: "1100px",
     },
     extend: { borderRadius: { def: "16px" } },

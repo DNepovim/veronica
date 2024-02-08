@@ -19,6 +19,27 @@ export default defineConfig({
   schema: {
     collections: [
       {
+        name: "configuration",
+        label: "Nastavení",
+        format: "json",
+        path: "config",
+        ui: {
+          allowedActions: { delete: false, create: false },
+        },
+        fields: [
+          {
+            type: "string",
+            name: "title",
+            label: "Název stránky (záložka, výsledky vyhledávání)",
+          },
+          {
+            type: "string",
+            name: "description",
+            label: "Popis stránky (výsledky vyhledávání)",
+          },
+        ],
+      },
+      {
         name: "navigation",
         label: "Navigace",
         format: "json",

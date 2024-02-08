@@ -1,7 +1,6 @@
 "use client";
 import { useRef, useState } from "react";
 import { Menu, NavItem } from "./Menu";
-import Image from "next/image";
 import { usePathname } from "next/navigation";
 import Link from "next/link";
 import useOnClickOutside from "use-onclickoutside";
@@ -32,7 +31,7 @@ export const Layout: React.FC<{
 
   return (
     <>
-      <div className={`fixed left-0 top-0 h-screen w-screen ${isMenuOpened || !isHome ? "opacity-60 blur" : ""}`}>
+      <div className={`fixed left-0 top-0 h-screen w-screen ${isMenuOpened || !isHome ? "blur-lg" : ""}`}>
         <video
           ref={videoRef}
           poster="/bg.webp"
@@ -68,8 +67,8 @@ export const Layout: React.FC<{
         )}
         {!isHome && (
           <>
-            <main className="relative mb-16">{children}</main>
-            <Link href="#top" className="bold self-start rounded-def bg-black px-6 pt-1 text-2xl text-white">
+            <main className="relative mb-16 max-w-2xl">{children}</main>
+            <Link href="#top" className="bold self-start rounded-def bg-black px-6 pt-1 text-xl text-white sm:text-2xl">
               zpět nahoru
             </Link>
             <p className="m-0 text-[12vw] font-bold uppercase">Veronica</p>

@@ -32,9 +32,6 @@ teams:
           koukat na rybník nebo hrát deskovky nebo hrát nedeskovky a žít život.
           Moc se těším :)
         image: /media/james1.jpg
-      - name: Kanon
-        text: "Říkají mi Kanon. Možná kvůli mé povaze, možná ne. Su Brňák jak stehno a štatl miluju. Studuju strojírenskou technologii a konzervatoř, bo hraju na trombon. Svoji víru, rodinu a klid nevyměním za nic na světě. Vedu malej oddíl, se kterým se nebojím zkoušet nové věci (experimentovat \\:o). Mám rád systém a řád, kterýho se dokážu vzdát (dobrej rým) s vidinou peckózní srandy a růstu.\_\n"
-        image: /media/kanon1.jpg
   - name: Servis tým
     members:
       - name: Srna
