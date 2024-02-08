@@ -8,4 +8,7 @@ module.exports = {
     });
     return cfg;
   },
+  images: {
+    domains: ["assets.tina.io"],
+  },
 };
