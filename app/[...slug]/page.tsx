@@ -5,6 +5,20 @@ import { webalize } from "@/utils/webalize";
 import { Metadata } from "next";
 import React from "react";
 
+export async function generateStaticParams() {
+  const pagesConnection = await client.queries.pagesConnection();
+  const pages = pagesConnection.data.pagesConnection.edges?.flatMap((p) => {
+    if (p?.node?.__typename === "PagesTeam") {
+      return p?.node?.teams?.flatMap(
+        (t) => t?.members?.map((m) => ({ slug: [p?.node?._sys.filename, webalize(m?.name ?? "")] })),
+      );
+    }
+    return { slug: [p?.node?._sys.filename] };
+  });
+
+  return pages;
+}
+
 export async function generateMetadata({ params }: { params: { slug: string[] } }): Promise<Metadata> {
   const [currentUrl, activeItem] = params.slug;
   const {
