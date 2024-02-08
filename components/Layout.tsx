@@ -49,7 +49,8 @@ export const Layout: React.FC<{
             navigation && <Menu items={navigation} ref={menuRef} />
           ) : (
             <h1 className="inline-block text-[4.4vw] font-bold uppercase leading-[1.8em] lg:text-[2rem]">
-              Skautský lesní kurz <strong className="text-[9.5vw] lg:text-[4.35rem]">Veronica</strong>
+              Skautský lesní kurz <br />
+              <strong className="text-[9.5vw] lg:text-[4.35rem]">Veronica</strong>
             </h1>
           )}
           <Link href="/">

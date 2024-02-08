@@ -5,7 +5,7 @@ export const Logo: React.FC<{ hoover?: boolean; className?: string }> = ({ hoove
     <svg
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 250 250"
-      stroke-width="0"
+      strokeWidth="0"
       className={`fill-black ${hoover ? "hover:fill-white" : ""} ${className}`}
     >
       <g>
