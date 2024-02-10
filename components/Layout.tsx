@@ -1,9 +1,8 @@
 "use client";
-import { useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { Menu, NavItem } from "./Menu";
 import { usePathname } from "next/navigation";
 import Link from "next/link";
-import useOnClickOutside from "use-onclickoutside";
 import { Logo } from "./Logo";
 import { Button } from "./Button";
 import { Video } from "./Video";
@@ -13,58 +12,95 @@ export const Layout: React.FC<{
   navigation?: NavItem[];
 }> = ({ children, navigation }) => {
   const [isMenuOpened, setIsMenuOpened] = useState(false);
+  const [isBlured, setIsBlured] = useState(false);
   const videoRef = useRef<HTMLVideoElement>(null);
-  const menuRef = useRef(null);
 
   const toggleMenu = (isOpened: boolean) => {
     setIsMenuOpened(isOpened);
     if (isOpened) {
       videoRef.current?.pause();
+      setIsBlured(true);
     } else {
       videoRef.current?.play();
+      setIsBlured(false);
     }
   };
 
-  useOnClickOutside(menuRef, () => toggleMenu(false));
-
+  const overlayRef = useRef<HTMLDivElement>(null);
   const pathname = usePathname();
   const isHome = pathname === "/";
 
+  useEffect(() => {
+    if (isHome && isMenuOpened && overlayRef.current) {
+      overlayRef.current.addEventListener(
+        "click",
+        () => {
+          toggleMenu(false);
+        },
+        { once: true },
+      );
+    }
+  }, [isHome, isMenuOpened]);
+
   return (
     <>
-      <div className={`fixed left-0 top-0 h-screen w-screen ${isMenuOpened || !isHome ? "blur-lg" : ""}`}>
+      <div className={`fixed left-0 top-0 h-screen w-screen ${isMenuOpened || !isHome || isBlured ? "blur-lg" : ""}`}>
         <Video ref={videoRef} autoplay={isHome} />
       </div>
-      <div className="relative flex min-h-screen w-screen flex-col justify-between p-6">
-        <header className="flex-start mb-8 flex justify-between">
+      <div className="relative flex min-h-screen w-screen flex-col p-6">
+        <header className="flex-start flex items-start justify-between">
           {isMenuOpened || !isHome ? (
-            navigation && <Menu items={navigation} ref={menuRef} />
+            navigation && <Menu items={navigation} />
           ) : (
             <h1 className="inline-block text-[4.4vw] font-bold uppercase leading-[1.8em] lg:text-[2rem]">
               Skautský lesní kurz <br />
               <strong className="text-[9.5vw] lg:text-[4.35rem]">Veronica</strong>
             </h1>
           )}
-          <Link href="/">
-            <Logo hoover={isMenuOpened || !isHome} className="w-[16vw] lg:w-32" />
-          </Link>
+          {isHome ? (
+            <Logo
+              hoover={isMenuOpened || !isHome}
+              className={`w-[16vw] lg:w-32 ${isMenuOpened ? "cursor-pointer" : ""}`}
+              onClick={() => toggleMenu(false)}
+            />
+          ) : (
+            <Link href="/">
+              <Logo hoover={isMenuOpened || !isHome} className="w-[16vw] lg:w-32" />
+            </Link>
+          )}
         </header>
         {isHome && (
-          <div className="flex justify-between">
+          <div className="flex flex-auto items-end justify-between" ref={overlayRef}>
             {isMenuOpened ? (
-              <h1 className="-mb-9 flex-[100%] text-center text-[12vw] font-bold uppercase">Veronica</h1>
+              <h1 className="-mb-9 flex-[100%] cursor-pointer text-center text-[12vw] font-bold uppercase hover:text-white">
+                Veronica
+              </h1>
             ) : (
-              <Button onClick={() => toggleMenu(true)}>Menu</Button>
+              <Button
+                onClick={() => toggleMenu(true)}
+                onMouseEnter={() => {
+                  setIsBlured(true);
+                  videoRef.current?.pause();
+                }}
+                onMouseLeave={() => {
+                  setIsBlured(false);
+                  videoRef.current?.play();
+                }}
+              >
+                Menu
+              </Button>
             )}
           </div>
         )}
         {!isHome && (
           <>
-            <main className="relative mb-16 max-w-2xl">{children}</main>
-            <Link href="#top" className="bold self-start rounded-def bg-black px-6 pt-1 text-xl text-white sm:text-2xl">
+            <main className="relative my-16 max-w-2xl">{children}</main>
+            <Button href="#top" className="self-start">
               zpět nahoru
+            </Button>
+            <Link className="m-0 text-center text-[12vw] font-bold uppercase hover:text-white" href="/">
+              Veronica
             </Link>
-            <p className="m-0 text-[12vw] font-bold uppercase">Veronica</p>
           </>
         )}
       </div>

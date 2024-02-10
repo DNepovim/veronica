@@ -20,7 +20,7 @@ export const Team: React.FC<PagesTeamTeams & { currentUrl: string; activeItem: s
         {filteredMembers.map((m, i) => (
           <React.Fragment key={m.name}>
             <Link
-              className={`${isMemberActive(m, activeItem) ? "text-white" : ""} text-xl font-bold sm:text-2xl`}
+              className={`${isMemberActive(m, activeItem) ? "text-white" : ""} text-xl font-bold hover:text-white`}
               href={`/${currentUrl}/${webalize(m.name ?? "")}#${webalize(name ?? "")}`}
             >
               {m.name}

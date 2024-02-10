@@ -1,20 +1,30 @@
-import React from "react";
+import Link from "next/link";
+import React, { PropsWithChildren } from "react";
 
-export const Button: React.FC<{ children: React.ReactNode; onClick?: () => void; ghost?: boolean }> = ({
-  children,
-  onClick,
-  ghost,
-}) => {
-  const className = `font-bold rounded-def border-4 border-black  px-4 pt-1 text-xl uppercase  ${
+type ButtonProps = PropsWithChildren<{
+  ghost?: boolean;
+  href?: string;
+  className?: string;
+  onClick?: () => void;
+  onMouseEnter?: () => void;
+  onMouseLeave?: () => void;
+}>;
+
+export const Button: React.FC<ButtonProps> = ({ children, ghost, href, className, onClick, onMouseEnter, onMouseLeave }) => {
+  const agregatedClassName = `font-bold rounded-def border-4 border-black  px-4 pt-1 text-xl uppercase ${className} ${
     ghost
       ? "backdrop-blur hover:bg-black hover:text-white"
       : "bg-black text-white hover:bg-transparent hover:text-black hover:backdrop-blur"
   }`;
   return onClick ? (
-    <button onClick={onClick} className={className}>
+    <button onClick={onClick} onMouseEnter={onMouseEnter} onMouseLeave={onMouseLeave} className={agregatedClassName}>
       {children}
     </button>
+  ) : href ? (
+    <Link href={href} className={`${agregatedClassName} cursor-pointer`}>
+      {children}
+    </Link>
   ) : (
-    <div className={`${className} cursor-pointer`}>{children}</div>
+    <div className={`${agregatedClassName} cursor-pointer`}>{children}</div>
   );
 };
