@@ -9,6 +9,6 @@ module.exports = {
     return cfg;
   },
   images: {
-    domains: ["assets.tina.io"],
+    domains: ["assets.tina.io", "blob.vercel-storage.com"],
   },
 };

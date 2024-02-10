@@ -6,6 +6,7 @@ import Link from "next/link";
 import useOnClickOutside from "use-onclickoutside";
 import { Logo } from "./Logo";
 import { Button } from "./Button";
+import { Video } from "./Video";
 
 export const Layout: React.FC<{
   children?: React.ReactNode;
@@ -32,15 +33,7 @@ export const Layout: React.FC<{
   return (
     <>
       <div className={`fixed left-0 top-0 h-screen w-screen ${isMenuOpened || !isHome ? "blur-lg" : ""}`}>
-        <video
-          ref={videoRef}
-          poster="/bg.webp"
-          src="/cover-01.mp4"
-          autoPlay={isHome}
-          loop
-          muted
-          className="h-full w-full object-cover object-center"
-        />
+        <Video ref={videoRef} autoplay={isHome} />
       </div>
       <div className="relative flex min-h-screen w-screen flex-col justify-between p-6">
         <header className="flex-start mb-8 flex justify-between">
