@@ -7,6 +7,7 @@ text: >
   #### [Chci se
   přihlásit!](https://is.skaut.cz/Junak/Events/Education/EventEducationEnroll.aspx?ID_EventEducation=2856\&ID_EventEducationCourse=3012)
 
+      
 
   # Pro koho je kurz určen:
 
