@@ -101,7 +101,7 @@ teams:
           bavit se o feminismu, výchově a mezilidských vztazích. Ve volným čase
           teď objevuju kouzlo lození, miluju udělat si pohodičku a dobrej čas a
           taky cokoliv, co se třpytí.
-        image: /media/srna.jpg
+        image: /media/srna1.jpg
       - name: Babu
         text: >
           Vim, co je dobrý a uvařim ti to. Jsem členkou nejsvatější kuchyňské
