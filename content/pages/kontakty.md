@@ -1,20 +1,18 @@
 ---
 title: Kontakty
 text: |
-  ## Radim Koutný
+  ## Radim Koutný – Raďim
 
   [koutnyyradim1@skaut.cz](mailto:koutnyyradim1@skaut.cz)\
   [+420 608 557 251](tel:+420608557251)
 
   ## Adam Hort – James
 
-  [james@skaut.cz](mailto:james@skaut.cz) \
-  [+420 666 888 777](tel:+420666888777)
+  [james@skaut.cz](mailto:james@skaut.cz) 
 
-  ## Matěj Liška
+  ## Matěj Liška 
 
-  [matejliska@skaut.cz](mailto:matejliska@skaut.cz)\
-  [+420 666 888 777](tel:+420666888777)
+  [matejliska@skaut.cz](mailto:matejliska@skaut.cz)
 _template: page
 ---
 
