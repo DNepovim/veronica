@@ -17,6 +17,7 @@ title: Tým
 teams:
   - name: Instruktorský tým
     members:
+      - name: Anežka
       - name: Jojo
         text: >
           Jsem Jojo. Ráda dělám v životě věci, co mi dávají smysl a který můžu
