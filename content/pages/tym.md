@@ -17,6 +17,16 @@ title: Tým
 teams:
   - name: Instruktorský tým
     members:
+      - name: Klárka
+        text: >
+          Ahoj! Já jsem Klára a su z Brna, hehe. Už několikátým rokem vedu v 16.
+          oddílu Allium v brněnských Medlánkách. Ve volném čase nejraději lepím
+          koláže, věnuju se divadlu nebo připravuju osmichodové snídaně pro moje
+          kámošstvo. Poslední dobou společně s Babu pořádáme tvořící workshopy
+          pro další kreativní duše. Veronica je pro mě místo, kde se můžu
+          posouvat, poznávat a překonávat sebe sama, a zároveň místem, kde se
+          cítím bezpečně na sdílení a předávání myšlenek a zkušeností. 
+        image: /media/klarka1.jpg
       - name: Matěj
         text: >
           Já jsem Matěj. Jsem z Brna, konkrétně z Židenic, což formovalo velkou
