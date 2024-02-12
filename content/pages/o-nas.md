@@ -6,13 +6,11 @@ text: >
 
   Veronica je sebe rozvojový kurz pro skauty a skautky, kteří se chystají
   absolvovat vůdcovskou zkoušku, nebo se prostě jen dozvědět něco o sobě a světu
-  kolem nich. Za svých třiadvacet let si prošla personifikací jako malokterý
-  jiný kurz a mluvit o ní ve středním rodě by se se zlou potázalo. Je trochu
-  jezinkou, trochu dítetem a hodně tržištěm za dob výměnného obchodu. Odneseš si
-  z ní jen tolik, kolik jsi do ní ochoten/na dát. Ale nic na těchto řádcích jí
-  perfektně nevysvětlí. Je totiž hlavně srdeční záležitostí. Nejde na ní o
-  dekret, nejde ani o šátek, se kterým odchází každý z nás. Jde o Tvojí vůli
-  hledat.
+  kolem nich. Je trochu jezinkou, trochu dítětem a hodně tržištěm za dob
+  výměnného obchodu. Odneseš si z ní jen tolik, kolik jsi do ní ochoten/na/\*
+  dát. Ale nic na těchto řádcích jí perfektně nevysvětlí. Je totiž hlavně
+  srdeční záležitostí. Nejde na ní o dekret, nejde ani o šátek, se kterým
+  odchází každý z nás. Jde o Tvojí vůli hledat.
 
 
   Hledat, nacházet a předávat dál je středobodem roverského poslání. To ti na
@@ -32,7 +30,8 @@ text: >
   Veronica spatřila světlo světa v roce 2000 jako mladší sestra čekatelského
   lesního kurzu Rozrazil, je lesním kurzem pořádaným pod hlavičkou Junáka –
   českého skauta. Přímým pořadatelem kurzu je Junák – český skaut, středisko
-  Kompas Brno, z. s, vůdkyní kurzu je Delfín – Anna Bláhová.
+  Kompas Brno, z. s, vůdkyní kurzu je Delfín – Anna Bláhová; zastoupená Radimem
+  Koutným – Raďim.
 _template: page
 ---
 
