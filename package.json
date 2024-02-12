@@ -13,7 +13,8 @@
     "next": "14.0.3",
     "react": "^18",
     "react-dom": "^18",
-    "tinacms": "^1.5.28"
+    "tinacms": "^1.5.28",
+    "type-guards": "^0.15.0"
   },
   "devDependencies": {
     "@babel/core": "^7.23.5",

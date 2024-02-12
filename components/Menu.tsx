@@ -17,7 +17,7 @@ export const Menu = forwardRef(function Menu({ items }: { items: NavItem[] }, re
         <li key={link}>
           <Link
             href={`/${link}`}
-            className={`mb-2 block text-xl font-bold hover:text-white md:mb-4 md:text-2xl lg:text-3xl ${
+            className={`mb-2 block text-xl font-bold transition-all hover:text-white md:mb-4 md:text-2xl lg:text-3xl ${
               slug?.[0] === link ? "text-white" : ""
             }`}
           >

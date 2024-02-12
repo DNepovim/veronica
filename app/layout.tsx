@@ -2,6 +2,7 @@ import localFont from "next/font/local";
 import "./globals.css";
 import { Layout } from "@/components/Layout";
 import client from "@/tina/__generated__/client";
+import { Metadata } from "next";
 
 const PPFormulaFont = localFont({
   src: [
@@ -9,6 +10,10 @@ const PPFormulaFont = localFont({
     { weight: "normal", path: "./../fonts/PPFormula-SemiCondensedMedium.otf" },
   ],
 });
+
+export const metadata: Metadata = {
+  authors: [{ name: "Radim Koutný" }, { name: "Dominik Bláha", url: "https://www.dominikblaha.cz" }],
+};
 
 export default async function RootLayout({ children }: { children: React.ReactNode }) {
   const {

@@ -1,6 +1,6 @@
 import React from "react";
 import { TinaMarkdown, TinaMarkdownContent } from "tinacms/dist/rich-text";
-import { A, H1, H2, H3, Strong } from "./Typography";
+import { A, H1, H2, H3, P, Strong } from "./Typography";
 
 export const RichText: React.FC<{ content: TinaMarkdownContent }> = ({ content }) => (
   <TinaMarkdown
@@ -12,6 +12,7 @@ export const RichText: React.FC<{ content: TinaMarkdownContent }> = ({ content }
       h5: (props) => <H3 {...props} />,
       h6: (props) => <H3 {...props} />,
       a: (props) => <A {...props} href={props?.url} />,
+      p: (props) => <P {...props} />,
       strong: (props) => <Strong {...props} />,
     }}
     content={content}

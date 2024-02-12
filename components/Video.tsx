@@ -6,7 +6,7 @@ export const Video = forwardRef<HTMLVideoElement, { autoplay?: boolean }>(functi
     <Suspense fallback={<Image src="public/bg.webp" alt="" />}>
       <video
         ref={ref}
-        src="cover-01.mp4"
+        src="/cover-01.mp4"
         autoPlay={autoplay}
         loop
         muted

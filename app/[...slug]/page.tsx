@@ -40,10 +40,10 @@ export async function generateMetadata({ params }: { params: { slug: string[] } 
       pages.teams?.flatMap((t) => t?.members ?? []).filter((m): m is Exclude<typeof m, null> => m !== null) ?? [];
     const activeMember = allMembers.find((m) => webalize(m.name) === activeItem);
 
-    const title = activeMember ? activeMember.name : pages.title;
+    const pageTitle = activeMember ? activeMember.name : pages.title;
 
     return {
-      title: `${title} | ${title}`,
+      title: `${pageTitle} | ${title}`,
       description,
     };
   }
