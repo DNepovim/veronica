@@ -17,6 +17,15 @@ title: Tým
 teams:
   - name: Instruktorský tým
     members:
+      - name: Matěj
+        text: >
+          Já jsem Matěj. Jsem z Brna, konkrétně z Židenic, což formovalo velkou
+          část mojí osobnosti (silný, nebojácný, odolný, hbitý, atd.). Tam taky
+          vedu v 69. oddíle Modrý delfín. Hodně mě baví dobrá hudba a naopak
+          hodně vadí ta špatná. Na Veronice to miluju, protože je to takovej
+          safe space, ve kterým se můžu vyjádřit ačkoliv jinde bych se třeba
+          bál.
+        image: /media/matej1.jpg
       - name: Pája
         text: >
           Ahoj, jmenuji se Pája. Jsem z Brna, kde i v 16. oddílu Allium už
@@ -27,7 +36,7 @@ teams:
           kapely a chození na jejich koncerty je už takový můj denní chleba.
           Dokončuji tento rok střední pedagogickou školu se specializací
           dramaťáku a chtěla bych se dále profilovat v environmentu nebo
-          pedagogice. 
+          pedagogice.
         image: /media/paja1.jpg
       - name: James
         text: >
