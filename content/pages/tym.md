@@ -17,6 +17,23 @@ title: Tým
 teams:
   - name: Instruktorský tým
     members:
+      - name: Jojo
+        text: >
+          Jsem Jojo. Ráda dělám v životě věci, co mi dávají smysl a který můžu
+          dělat s lidma, se kterejma je mi dobře. Proto vedu už čtvrtým rokem
+          náš smíšený 16. oddíl Allium v Brně a přelétám mezi ČLK Rozrazilem a
+          LK Veronicou. Na bakaláři jsem byla na Divadelní produkci, ale
+          nedávalo mi to smysl, a tak jsem to nedělala ráda. Zkouším teď najít
+          smysl v oboru Andragogika, tak třeba z toho kápnou nějaký zkušenosti,
+          který zužitkuju aji tady na Verči. Baví mě jóga, focení a šíleně ráda
+          se saunuju a trochu otužuju. V dalším volným čase venčim našeho
+          šílenýho psa Bedřicha, se kterým už tak více méně omylem třetím rokem
+          bydlím. Nesnáším hlasový zprávy a praní oblečení, zato ráda meju
+          nádobí a uklízím, hlavně když jsem naštvaná. Mám uplně terrible
+          english, takže se snažim s tim něco dělat, tudíž je ze mě teď
+          Potterholička, protože jsem se rozhodla přečíst všech sedm dílů
+          anglicky
+        image: /media/Jojo1.jpg
       - name: Klárka
         text: >
           Ahoj! Já jsem Klára a su z Brna, hehe. Už několikátým rokem vedu v 16.
@@ -25,7 +42,7 @@ teams:
           kámošstvo. Poslední dobou společně s Babu pořádáme tvořící workshopy
           pro další kreativní duše. Veronica je pro mě místo, kde se můžu
           posouvat, poznávat a překonávat sebe sama, a zároveň místem, kde se
-          cítím bezpečně na sdílení a předávání myšlenek a zkušeností. 
+          cítím bezpečně na sdílení a předávání myšlenek a zkušeností.
         image: /media/klarka1.jpg
       - name: Matěj
         text: >
