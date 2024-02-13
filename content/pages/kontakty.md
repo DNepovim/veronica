@@ -12,11 +12,11 @@ text: |
 
   ## Adam Hort – James
 
-  [adam.hort.morfy@gmail.com](mailto:james@skaut.cz)
+  [adam.hort.morfy@gmail.com](mailto:adam.hort.morfy@gmail.com)
 
   ## Matěj Liška
 
-  [matejliska@skaut.cz](mailto:matejliska@skaut.cz)
+  [matej@dvojkabrno.cz](mailto:matej@dvojkabrno.cz)
 _template: page
 ---
 
