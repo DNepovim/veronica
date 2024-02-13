@@ -96,10 +96,7 @@ export const Layout: React.FC<{
         )}
         {!isHome && (
           <>
-            <main className="relative my-16 max-w-2xl">
-              <P>A tak jsem šel 3. - 4.5. někam a sem.</P>
-              {children}
-            </main>
+            <main className="relative my-16 max-w-2xl">{children}</main>
             <Button href="#top" className="self-start">
               zpět nahoru
             </Button>
