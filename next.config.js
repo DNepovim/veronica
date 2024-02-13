@@ -9,6 +9,11 @@ module.exports = {
     return cfg;
   },
   images: {
-    domains: ["assets.tina.io", "blob.vercel-storage.com"],
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "assets.tina.io",
+      },
+    ],
   },
 };
