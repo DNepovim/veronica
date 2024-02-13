@@ -18,8 +18,7 @@ text: >
   bandy nadšenců, a tím také zůstala. Linie mezi účastníkem a vedoucím je skoro
   tak tenká jako nitě na císařových nových šatech. Jsme rovery, experimentujeme
   s programy, učíme se jeden od druhého a tvoříme příběhy k táborovým ohňům.
-  Veronica je čtveřicí slonů a my jsme jejich vesmírnou želvou. Stojí jen na
-  nás.
+  Jsme čtveřicí slonů a Veronica je naší vesmírnou želvou. Stojí jen na nás.
 
 
   Veronica je kurz, který se snaží otevírat obzory. Více než kde jinde zde
