@@ -3,7 +3,7 @@ title: Kontakty
 text: |
   ## Oficiální kontaktní adresa
 
-  [koutnyyradim1@skaut.cz](mailto:koutnyyradim1@skaut.cz)
+  lkveronica\@gmail.com
 
   ## Radim Koutný – Raďim
 
