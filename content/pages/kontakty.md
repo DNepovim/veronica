@@ -1,7 +1,7 @@
 ---
 title: Kontakty
 text: |
-  ## Oficiální kontaktní adresa
+  ## Oficiální kontaktní adresa:
 
   [lkveronica@gmail.com](mailto:lkveronica@gmail.com)
 
