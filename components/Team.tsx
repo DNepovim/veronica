@@ -15,17 +15,17 @@ export const Team: React.FC<PagesTeamTeams & { currentUrl: string; activeItem: s
   const filteredMembers = members?.filter((m): m is Exclude<typeof m, null> => m !== null) ?? [];
   return (
     <section className="mb-8">
-      <H2 id={webalize(name ?? "")}>{name}</H2>
+      <H2 id={webalize(name ?? "")}>{name}:</H2>
       <div className="mb-8">
         {filteredMembers.map((m, i) => (
           <React.Fragment key={m.name}>
             <Link
-              className={`${isMemberActive(m, activeItem) ? "text-white" : ""} text-xl font-bold hover:text-white`}
+              className={`${isMemberActive(m, activeItem) ? "text-white" : ""} text-xl transition-colors hover:text-white`}
               href={`/${currentUrl}/${webalize(m.name ?? "")}#${webalize(name ?? "")}`}
             >
               {m.name}
             </Link>
-            {i < filteredMembers.length - 1 ? ", " : "."}
+            {i < filteredMembers.length - 1 ? ", " : ""}
           </React.Fragment>
         ))}
       </div>

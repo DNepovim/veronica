@@ -10,7 +10,7 @@ export const H2: React.FC<PropsWithChildren<ComponentProps<"h2">>> = ({ classNam
 export const H3: React.FC<PropsWithChildren<ComponentProps<"h3">>> = (props) => <h3 className="text-xl font-bold" {...props} />;
 
 export const A: React.FC<PropsWithChildren<ComponentProps<"a">>> = ({ href, ref, ...props }) => (
-  <Link className="text-blue-500" {...props} href={href ?? ""} passHref />
+  <Link className="underline transition-colors hover:text-white hover:no-underline" {...props} href={href ?? ""} passHref />
 );
 
 export const Strong: React.FC<PropsWithChildren<ComponentProps<"strong">>> = (props) => (

@@ -104,7 +104,7 @@ export const Layout: React.FC<{
               zpět nahoru
             </Button>
             <Link
-              className="m-0 text-center text-[12vw] font-bold uppercase hover:text-white"
+              className="m-0 text-center text-[12vw] font-bold uppercase transition-colors hover:text-white"
               href="/"
               onClick={() => {
                 router.push("/");
