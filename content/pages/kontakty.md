@@ -3,7 +3,7 @@ title: Kontakty
 text: |
   ## Oficiální kontaktní adresa
 
-  lkveronica\@gmail.com
+  [lkveronica@gmail.com](mailto:lkveronica@gmail.com)
 
   ## Radim Koutný – Raďim
 
@@ -12,7 +12,7 @@ text: |
 
   ## Adam Hort – James
 
-  [james@skaut.cz](mailto:james@skaut.cz)
+  [adam.hort.morfy@gmail.com](mailto:james@skaut.cz)
 
   ## Matěj Liška
 
