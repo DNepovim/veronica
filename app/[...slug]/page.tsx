@@ -11,9 +11,12 @@ export async function generateStaticParams() {
     pagesConnection.data.pagesConnection.edges
       ?.flatMap((p) => {
         if (p?.node?.__typename === "PagesTeam") {
-          return p?.node?.teams?.flatMap(
-            (t) => t?.members?.map((m) => ({ slug: [p?.node?._sys.filename, webalize(m?.name ?? "")] })),
-          );
+          return [
+            { slug: [p?.node?._sys.filename] },
+            ...(p?.node?.teams?.flatMap(
+              (t) => t?.members?.map((m) => ({ slug: [p?.node?._sys.filename, webalize(m?.name ?? "")] })),
+            ) ?? []),
+          ];
         }
         return { slug: [p?.node?._sys.filename] };
       })
