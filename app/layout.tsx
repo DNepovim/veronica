@@ -3,6 +3,7 @@ import "./globals.css";
 import { Layout } from "@/components/Layout";
 import client from "@/tina/__generated__/client";
 import { Metadata } from "next";
+import { Analytics } from "@vercel/analytics/react";
 
 const PPFormulaFont = localFont({
   src: [
@@ -35,6 +36,7 @@ export default async function RootLayout({ children }: { children: React.ReactNo
         >
           {children}
         </Layout>
+        <Analytics />
       </body>
     </html>
   );
