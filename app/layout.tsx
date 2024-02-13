@@ -4,6 +4,7 @@ import { Layout } from "@/components/Layout";
 import client from "@/tina/__generated__/client";
 import { Metadata } from "next";
 import { Analytics } from "@vercel/analytics/react";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 
 const PPFormulaFont = localFont({
   src: [
@@ -36,6 +37,7 @@ export default async function RootLayout({ children }: { children: React.ReactNo
         >
           {children}
         </Layout>
+        <SpeedInsights />
         <Analytics />
       </body>
     </html>
