@@ -4,18 +4,18 @@ text: >
   # Kdo je Veronica?
 
 
-  Veronica je sebe rozvojový kurz pro skauty a skautky, kteří se chystají
+  Veronica je seberozvojový kurz pro skauty a skautky, kteří se chystají
   absolvovat vůdcovskou zkoušku, nebo se prostě jen dozvědět něco o sobě a světu
   kolem nich. Je trochu jezinkou, trochu dítětem a hodně tržištěm za dob
   výměnného obchodu. Odneseš si z ní jen tolik, kolik jsi do ní ochoten/na/\*
-  dát. Ale nic na těchto řádcích jí perfektně nevysvětlí. Je totiž hlavně
+  dát. Ale nic na těchto řádcích ji perfektně nevysvětlí. Je totiž hlavně
   srdeční záležitostí. Nejde na ní o dekret, nejde ani o šátek, se kterým
-  odchází každý z nás. Jde o Tvojí vůli hledat.
+  odchází každý z nás. Jde o Tvoji vůli hledat.
 
 
   Hledat, nacházet a předávat dál je středobodem roverského poslání. To ti na
-  Veronice nabízíme a o to se skrz ní i sami snažíme. Veronica vznikla jako kurz
-  bandy nadšenců a tím také zůstala. Linie mezi účastníkem a vedoucím je skoro
+  Veronice nabízíme a o to se skrz ni i sami snažíme. Veronica vznikla jako kurz
+  bandy nadšenců, a tím také zůstala. Linie mezi účastníkem a vedoucím je skoro
   tak tenká jako nitě na císařových nových šatech. Jsme rovery, experimentujeme
   s programy, učíme se jeden od druhého a tvoříme příběhy k táborovým ohňům.
   Veronica je čtveřicí slonů a my jsme jejich vesmírnou želvou. Stojí jen na
