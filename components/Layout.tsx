@@ -6,7 +6,6 @@ import Link from "next/link";
 import { Logo } from "./Logo";
 import { Button } from "./Button";
 import { Video } from "./Video";
-import { P } from "./Typography";
 
 export const Layout: React.FC<{
   children?: React.ReactNode;
@@ -74,7 +73,7 @@ export const Layout: React.FC<{
         {isHome && (
           <div className="flex flex-auto items-end justify-between" ref={overlayRef}>
             {isMenuOpened ? (
-              <h1 className="-mb-9 flex-[100%] cursor-pointer text-center text-[12vw] font-bold uppercase hover:text-white">
+              <h1 className="-mb-9 flex-[100%] cursor-pointer text-center text-[12vw] font-bold uppercase transition-colors hover:text-white">
                 Veronica
               </h1>
             ) : (
