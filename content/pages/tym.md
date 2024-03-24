@@ -69,7 +69,21 @@ teams:
       - name: Anežka
         text: ''
       - name: Radar
-        text: ''
+        text: >
+          Jsem Radar (pro anglicky mluvící vyslovuj \[rejdr]) a jsem z moravské
+          metropole Kuřimi, kde jsem se několik věnoval skautingu. Momentálně už
+          jsem skautský geront v rámci našeho střediska, ale stále rád jezdím na
+          různé akce, sem tam něco i uspořádám a občas se mihnu na táboře. Dál
+          mě baví sportovat. Je mi jedno, jaký to je sport, rád mám prostě
+          všechny. Jediný, co je důležitý, tak aby u toho byla sranda. Pak mám
+          celkem rád zimu, ale ne tu mokrou a ponurou. Tu, kde jsou hromady
+          sněhu, na kterým se lyžuje/běžkuje/kouluje/bobuje/sáňkuje a na
+          zamrzlým rybníku se hraje hokej a všechno prostě vypadá pěkně. Dál rád
+          vyhledávám situace/věci, který mě dostanou z mojí komfortní zóny, či
+          mě donutí mě improvizovat a v neposlední řadě se taky strašně rád
+          bavím s lidma, který mají jiný názory, než já, protože mě prostě
+          zajímá proč někdo nepovažuje polévku za součást oběda, haha.
+        image: /media/rrrrrrradar2.jpg
       - name: Delfín
         text: ''
       - name: Vikki
