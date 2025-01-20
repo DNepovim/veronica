@@ -1,11 +1,10 @@
 ---
 title: Přihlašování
 text: >
-  # Přihlašování pro ročník 2024 spuštěno:
+  # Přihlašování pro ročník 2025:
 
 
-  Přihlašování probíhá prostřednictvím skautISu, pod tímto odkazem: [Chci se
-  přihlásit!](https://is.skaut.cz/Junak/Events/Education/EventEducationEnroll.aspx?ID_EventEducation=2856\&ID_EventEducationCourse=3012)
+  Stay tuned, přijde brzy.
 
 
   # Pro koho je kurz určen:
@@ -14,7 +13,7 @@ text: >
   Kurz je určen pro všechny rovery/rangers/\* ve věku od 16 do 21 let, kteří se
   zajímají o sebe, svět a mají touhu poznávat. Ačkoliv je lesní kurz Veronica
   sesterským kurzem čekatelského lesního kurzu Rozrazil, absolvence Rozrazilu
-  ani čekatelská zkouška nejsou podmínkou. 
+  ani čekatelská zkouška nejsou podmínkou.
 
 
   # Cena:
