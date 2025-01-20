@@ -29,8 +29,7 @@ text: >
   Veronica spatřila světlo světa v roce 2000 jako mladší sestra čekatelského
   lesního kurzu Rozrazil, je lesním kurzem pořádaným pod hlavičkou Junáka –
   českého skauta. Přímým pořadatelem kurzu je Junák – český skaut, středisko
-  Kompas Brno, z. s, vůdkyní kurzu je Delfín – Anna Bláhová; zastoupená Radimem
-  Koutným – Raďim.
+  Kompas Brno, z. s, vůdcem kurzu Adamem Hortem – Jamesem.
 _template: page
 ---
 
