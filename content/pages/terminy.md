@@ -3,17 +3,17 @@ title: Termíny
 text: |
   ## 1. Víkendovka:
 
-  31\. 5. – 2. 6. 2024 \
+  xx. xx. – xx. xx. 2025 \
   Putovní, místo se včas dozvíte
 
   ## Letní část:
 
-  17\. – 26. 8. 2024 \
+  16\. – 25. 8. 2025 \
   [Skautská základna Strážná](https://www.trinactka.com/strazna)
 
   ## 2. Víkendovka:
 
-  11\. – 13. 10. 2024 \
+  xx. xx.– xx. xx. 2025 \
   Místo se včas dozvíte
 _template: page
 ---
