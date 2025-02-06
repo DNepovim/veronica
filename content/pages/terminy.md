@@ -3,7 +3,7 @@ title: Termíny
 text: |
   ## 1. Víkendovka:
 
-  xx. xx. – xx. xx. 2025 \
+  2 – 4. 5. 2025 \
   Putovní, místo se včas dozvíte
 
   ## Letní část:
@@ -13,7 +13,7 @@ text: |
 
   ## 2. Víkendovka:
 
-  xx. xx.– xx. xx. 2025 \
+  10.– 12. 10. 2025 \
   Místo se včas dozvíte
 _template: page
 ---
