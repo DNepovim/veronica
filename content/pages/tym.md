@@ -3,10 +3,6 @@ title: Tým
 teams:
   - name: Instruktorský tým
     members:
-      - name: Bramborák
-        text: |
-          afsfgrsg
-        image: /media/kanon1.jpg
       - name: Jojo
         text: >
           Jsem Jojo. Ráda dělám v životě věci, co mi dávají smysl a který můžu
