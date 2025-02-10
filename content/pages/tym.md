@@ -61,6 +61,7 @@ teams:
         text: ''
   - name: Starci
     members:
+      - name: Vikki
       - name: Delfín
       - name: Babu
         text: >
