@@ -120,6 +120,9 @@ teams:
       - name: Mája
         text: "Na Veronice mě najdete nejčastěji v kuchyni. S největší pravděpodobností se mi zrovna něco rozsypalo a nebo koukám do hrnce a pošetile nám tleskám, co za sakra dobrou chálku jsme s holkama uvařily. Ve skautském životě vedu pražský koedukovaný oddíl a pracuji v časopise Skaut. A v tom osobním? Jednoduše, snažím se najít sama sebe, a to s co nejmenšími ztrátami a šrámy. Ale na to se mě klidně zeptejte na místě, jsem dost otevřená kniha a nic pro mě není tabu. Těším se, až vás poznám - i když to bude hlavně u small talků při mytí nádobí.\_\n"
         image: /media/maja1.png
+  - name: Starci
+    members:
+      - name: Jojo
 _template: team
 ---
 
