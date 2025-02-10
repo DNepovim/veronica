@@ -61,6 +61,7 @@ teams:
         text: ''
   - name: Starci
     members:
+      - name: Delfín
       - name: Babu
         text: >
           Vim, co je dobrý a uvařim ti to. Jsem členkou nejsvatější kuchyňské
