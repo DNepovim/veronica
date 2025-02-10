@@ -4,7 +4,9 @@ teams:
   - name: Instruktorský tým
     members:
       - name: Váva
+        text: ''
       - name: Tuli
+        text: ''
       - name: James
         text: >
           Jsem trochu zmatený že života. Na Veronice je mi dobře, je to můj safe
@@ -15,9 +17,13 @@ teams:
           Moc se těším :)
         image: /media/james1.jpg
       - name: Jusťa
+        text: ''
       - name: Čenda
+        text: ''
       - name: Ančis
+        text: ''
       - name: Nina
+        text: ''
       - name: Klárka
         text: >
           Ahoj! Já jsem Klára a su z Brna, hehe. Už několikátým rokem vedu v 16.
@@ -52,9 +58,12 @@ teams:
   - name: Servis tým
     members:
       - name: Mido
+        text: ''
       - name: Teri
+        text: ''
       - name: Kenny
         text: ''
+        image: /media/IMG_4013.jpg
   - name: Starci
     members:
       - name: Jojo
@@ -132,7 +141,9 @@ teams:
           (dobrej rým) s vidinou peckózní srandy a růstu.
         image: /media/kanon1.jpg
       - name: Delfín
+        text: ''
       - name: Vikki
+        text: ''
 _template: team
 ---
 
