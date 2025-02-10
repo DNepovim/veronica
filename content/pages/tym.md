@@ -122,6 +122,9 @@ teams:
         image: /media/maja1.png
   - name: Starci
     members:
+      - name: Radim
+        text: "Jsem Radim a jsem podobnej rozpláclé plastelíně na stěně. Když už tam jednou je, tak nejde vůbec dolů a když už se vám podaří ji sundat, tak po sobě zanechá mastnej flek. Mám rád lidi a rád s nimi i pracuju. Přece jenom se už téměř 26 let součástí společnosti. Rád si dělám legraci, přestože jsem občas sám vážnej, tak vážnost v oblibě moc nemám, naopak mě fascinuje lehkost, se kterou jsou lidé schopni přistupovat ke světu. Dřív jsem se věnoval roverskému kmeni Sürius v Brněnském Kompasu. Vedl jsem nějaké ty kluky a holky, ale dnes už jsem spíš mimo aktivní skautský svět. Skauty nahradilo studium architektury a dalších příbuzných kreativních oborů. Rád přemýšlím nad děním kolem mě, proto může být občas náročné se mnou vést konverzaci, o to víc si vážím pokud někdo nesouhlasí! Rád si zároveň poslechnu novou hudbu, zajdu na zajímavej event, nebo prostě jen na prochajdu.\_\n"
+        image: /media/radim1.jpg
       - name: Kanon
         text: >
           Říkají mi Kanon. Možná kvůli mé povaze, možná ne. Su Brňák jak stehno
