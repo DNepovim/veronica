@@ -122,6 +122,22 @@ teams:
         image: /media/maja1.png
   - name: Starci
     members:
+      - name: Radar
+        text: >
+          Jsem Radar (pro anglicky mluvící vyslovuj \[rejdr]) a jsem z moravské
+          metropole Kuřimi, kde jsem se několik věnoval skautingu. Momentálně už
+          jsem skautský geront v rámci našeho střediska, ale stále rád jezdím na
+          různé akce, sem tam něco i uspořádám a občas se mihnu na táboře. Dál
+          mě baví sportovat. Je mi jedno, jaký to je sport, rád mám prostě
+          všechny. Jediný, co je důležitý, tak aby u toho byla sranda. Pak mám
+          celkem rád zimu, ale ne tu mokrou a ponurou. Tu, kde jsou hromady
+          sněhu, na kterým se lyžuje/běžkuje/kouluje/bobuje/sáňkuje a na
+          zamrzlým rybníku se hraje hokej a všechno prostě vypadá pěkně. Dál rád
+          vyhledávám situace/věci, který mě dostanou z mojí komfortní zóny, či
+          mě donutí mě improvizovat a v neposlední řadě se taky strašně rád
+          bavím s lidma, který mají jiný názory, než já, protože mě prostě
+          zajímá proč někdo nepovažuje polévku za součást oběda, haha.
+        image: /media/rrrrrrradar2.jpg
       - name: Anežka
         text: "Ahooj, já jsem Anežka, ale nemám ráda, když mě ostatní oslovují Anežko\\:D Když mě oslovíš Anež, tak na to slyším mnohem radši\\<3 Ve skautu působím, jako vedoucí oddílu Sluníčka ve středisku Dvojka Praha a mimo skaut jsem zdravotní sestřička na plný úvazek. Nejvíc spoko jsem, když můžu a dělám věci, které chci a naplňují mě a ne věci, které musím a nedávají mi smysl. Nějaký den jsem moc ráda jen venku a podnikám věci, ale další den je pro mě ideálně strávený jen v posteli u filmů/seriálů/knihy, nebo ho celý prospím\\:D Můj osobnostní typ je INFP-T, znamením jsem ryba a baví mě se hrabat v horoskopech. Celý život miluju vaření a jednou chci vydat svou vlastní kuchařku, která bude vegan stejně, jako já. Miluju léto a nesnáším zimu(výjimkou jsou hory). Na důchod bych se chtěla odstěhovat do Toskánska! Žiju pro neplánované i plánované výlety, hlavně ty do zahraničí - jednou bych chtěla někde mimo čr žít. Největší radost\_ mi dělá, když můžu ostatním dělat radost, když vidím moje kámošstvo šťastné a když se můžeme společně smát. Mojí achillovou patou jsou deadliny, prokrastinace, bouřky, práce pod tlakem, vystupování před lidmi a celkově větší davy lidí a hluk. Moc se těším, až se na Verči budeme bavit o všem, ale třeba i o ničem!)\n"
         image: /media/(1)1.jpg
