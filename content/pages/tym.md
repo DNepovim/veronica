@@ -122,6 +122,20 @@ teams:
         image: /media/maja1.png
   - name: Starci
     members:
+      - name: Babu
+        text: >
+          Vim, co je dobrý a uvařim ti to. Jsem členkou nejsvatější kuchyňské
+          trojice spolu s Májou a Srnou, děláme nejlepší mňamky ze všech koutů
+          světa i od mojí babičky a následující cca dva roky ti bude trochu
+          smutno, že už nic nechutná tak, jako na Veronice. Když zrovna nedělám
+          tuhle bohulibou činnost, tak studuju sociologii a věnuju se systémové
+          problematice vzdělávání a sociálních nerovností (a ráda si o tom
+          popovídám!), pořádám sranda eventíky po Brně (výtvarné workshopy,
+          blešáky a tak), cestuju a jezdím na kole. Mám ráda špás, spink,
+          estetično, béčkový filmy, Veronicu, přírodu, širokou škálu muziky a
+          respektující politické diskuze. Když se za mnou stavíš v kuchyni,
+          nejspíš ti dám nějakou dobrotku a špatnej vtipek.
+        image: /media/babu1.jpg
       - name: Srna
         text: >
           Jsem Srna z Brna a do skautu chodím asi 11 let, z toho jsem 9 let ve
