@@ -3,6 +3,7 @@ title: Tým
 teams:
   - name: Instruktorský tým
     members:
+      - name: Čenda
       - name: Ančis
       - name: Nina
       - name: Klárka
