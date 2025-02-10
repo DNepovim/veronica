@@ -49,10 +49,6 @@ teams:
           dramaťáku a chtěla bych se dále profilovat v environmentu nebo
           pedagogice.
         image: /media/paja1.jpg
-      - name: Delfín
-        text: ''
-      - name: Vikki
-        text: ''
   - name: Servis tým
     members:
       - name: Mido
