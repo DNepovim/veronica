@@ -122,6 +122,18 @@ teams:
         image: /media/maja1.png
   - name: Starci
     members:
+      - name: Srna
+        text: >
+          Jsem Srna z Brna a do skautu chodím asi 11 let, z toho jsem 9 let ve
+          vedení, 3 roky jsem vedla brněnský dívčí oddíl Nika a letos budu po
+          páté vařit na Veronice. Vaření na Verči je pro mě vždycky taková
+          gastro dovolená, kde se holkama snažíme vytvářet safe space a kde
+          překonáváme kulinářské výzvy a ostatní z toho mají radost, což je
+          prostě boží! Mimo skaut studuju sociální antropologii a hodně mě baví
+          bavit se o feminismu, výchově a mezilidských vztazích. Ve volným čase
+          teď objevuju kouzlo lození, miluju udělat si pohodičku a dobrej čas a
+          taky cokoliv, co se třpytí.
+        image: /media/srna1.jpg
       - name: Radar
         text: >
           Jsem Radar (pro anglicky mluvící vyslovuj \[rejdr]) a jsem z moravské
