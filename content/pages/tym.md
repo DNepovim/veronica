@@ -3,6 +3,7 @@ title: Tým
 teams:
   - name: Instruktorský tým
     members:
+      - name: Nina
       - name: Klárka
         text: >
           Ahoj! Já jsem Klára a su z Brna, hehe. Už několikátým rokem vedu v 16.
