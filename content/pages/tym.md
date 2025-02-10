@@ -3,6 +3,23 @@ title: Tým
 teams:
   - name: Instruktorský tým
     members:
+      - name: Mája
+        text: >
+          Utekla jsem z Prahy do Brna a je to super. Studuji divadelní produkci
+          a ačkoliv divadlo miluju, z toho produkčního pohledu mě to tak moc
+          neba. Radši dělám fesťáky, koncerty, akcičky. Ale tohle není profesní
+          záměr, tohle je instruktorský medailonek. Neskromně přiznávám, že jsem
+          definice balancu mezi punkem a puntíčkářstvím. Nějakou dobu jsem na
+          Veronice vařila super mňamky, tak uvidíme, jaké budu vařit programy.
+          Ve skautské lince svého života pět let vedu oddíl, pár let jsem
+          působila na Žirafě Střed a dělám produkci pro Časopis Skaut. Kdybych
+          byla jídlo, budu kynuté těsto, protože umím solidně vybobtnat a když
+          se na tebe přilepím, už se mě jen tak nezbavíš. Ale to zjistíš na
+          kurzu. Zeptej se mě na cokoliv, jsem otevřená kniha a nic pro mě není
+          tabu. Jo a kdyby ti přišlo, že jsem až moc cool a nějak tě to
+          omezovalo, klidně řekni, něco s tím provedem. Těším se na tebe! Marie
+          (tak mi klíďo říkej, mám to ráda)
+        image: /media/IMG_2572.jpg
       - name: Váva
         text: ''
       - name: Tuli
