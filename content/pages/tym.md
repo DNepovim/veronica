@@ -3,6 +3,16 @@ title: Tým
 teams:
   - name: Instruktorský tým
     members:
+      - name: Tuli
+      - name: James
+        text: >
+          Jsem trochu zmatený že života. Na Veronice je mi dobře, je to můj safe
+          space. Většinou jsem spoko a dělám věci a říkám slova, ale teď když
+          tohle píšu je zima a tma a nechci psát kýč. Tak si se mnou přijď
+          povídat o kafi nebo světě nebo knížkách nebo nepovídat a jen sedět a
+          koukat na rybník nebo hrát deskovky nebo hrát nedeskovky a žít život.
+          Moc se těším :)
+        image: /media/james1.jpg
       - name: Jusťa
       - name: Čenda
       - name: Ančis
@@ -38,15 +48,6 @@ teams:
           dramaťáku a chtěla bych se dále profilovat v environmentu nebo
           pedagogice.
         image: /media/paja1.jpg
-      - name: James
-        text: >
-          Jsem trochu zmatený že života. Na Veronice je mi dobře, je to můj safe
-          space. Většinou jsem spoko a dělám věci a říkám slova, ale teď když
-          tohle píšu je zima a tma a nechci psát kýč. Tak si se mnou přijď
-          povídat o kafi nebo světě nebo knížkách nebo nepovídat a jen sedět a
-          koukat na rybník nebo hrát deskovky nebo hrát nedeskovky a žít život.
-          Moc se těším :)
-        image: /media/james1.jpg
       - name: Delfín
         text: ''
       - name: Vikki
