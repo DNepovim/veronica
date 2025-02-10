@@ -3,6 +3,7 @@ title: Tým
 teams:
   - name: Instruktorský tým
     members:
+      - name: Váva
       - name: Tuli
       - name: James
         text: >
