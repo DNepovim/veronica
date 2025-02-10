@@ -122,6 +122,15 @@ teams:
         image: /media/maja1.png
   - name: Starci
     members:
+      - name: Kanon
+        text: >
+          Říkají mi Kanon. Možná kvůli mé povaze, možná ne. Su Brňák jak stehno
+          a štatl miluju. Studuju strojírenskou technologii a konzervatoř, bo
+          hraju na trombon. Svoji víru, rodinu a klid nevyměním za nic na světě.
+          Vedu malej oddíl, se kterým se nebojím zkoušet nové věci
+          (experimentovat \:o). Mám rád systém a řád, kterýho se dokážu vzdát
+          (dobrej rým) s vidinou peckózní srandy a růstu.
+        image: /media/kanon1.jpg
       - name: Jojo
         text: >
           Jsem Jojo. Ráda dělám v životě věci, co mi dávají smysl a který můžu
