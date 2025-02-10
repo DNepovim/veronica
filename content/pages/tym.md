@@ -17,7 +17,33 @@ teams:
           Moc se těším :)
         image: /media/james1.jpg
       - name: Jusťa
-        text: ''
+        text: >+
+          Jsem Jusťa – trochu chaotička, trochu entusiastka, která ráda sdílí
+          své vědomosti a zkušenosti s ostatními a zároveň se od nich učí.
+
+
+          Miluju cestování, pohyb, hudbu, deep konverzace a zkoušení nových
+          věcí. Často nevím, co vlastně chci, a tak se snažím objevovat a
+          zkoušet. Snažím se aktivně vystupovat z komfortní zóny, i když je to
+          občas fakt nepříjemné.
+
+
+          Moje aktuální challenge je zpomalit – prostě být a nesnažit se pořád
+          za něčím hnát. Mám tendenci vrhat se do všeho, co mě nadchne, ale pak
+          se snadno zahltím a hledám rovnováhu.
+
+
+          Studuju sociální pedagogiku se zaměřením na spiritualitu a komunikaci.
+          Zároveň vedu světlušky a jsem součástí výchovného zpravodajstva našeho
+          střediska.
+
+
+          Těším se na další lidi, které na Veronice poznám, tak neváhej a
+          přihlaš se!
+
+
+
+        image: /media/IMG_1185.jpg
       - name: Čenda
         text: ''
       - name: Ančis
