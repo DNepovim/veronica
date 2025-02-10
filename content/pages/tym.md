@@ -3,6 +3,15 @@ title: Tým
 teams:
   - name: Instruktorský tým
     members:
+      - name: James
+        text: >
+          Jsem trochu zmatený že života. Na Veronice je mi dobře, je to můj safe
+          space. Většinou jsem spoko a dělám věci a říkám slova, ale teď když
+          tohle píšu je zima a tma a nechci psát kýč. Tak si se mnou přijď
+          povídat o kafi nebo světě nebo knížkách nebo nepovídat a jen sedět a
+          koukat na rybník nebo hrát deskovky nebo hrát nedeskovky a žít život.
+          Moc se těším :)
+        image: /media/james1.jpg
       - name: Mája
         text: >
           Utekla jsem z Prahy do Brna a je to super. Studuji divadelní produkci
@@ -20,47 +29,6 @@ teams:
           omezovalo, klidně řekni, něco s tím provedem. Těším se na tebe! Marie
           (tak mi klíďo říkej, mám to ráda)
         image: /media/IMG_2572.jpg
-      - name: Váva
-        text: ''
-      - name: Tuli
-        text: ''
-      - name: James
-        text: >
-          Jsem trochu zmatený že života. Na Veronice je mi dobře, je to můj safe
-          space. Většinou jsem spoko a dělám věci a říkám slova, ale teď když
-          tohle píšu je zima a tma a nechci psát kýč. Tak si se mnou přijď
-          povídat o kafi nebo světě nebo knížkách nebo nepovídat a jen sedět a
-          koukat na rybník nebo hrát deskovky nebo hrát nedeskovky a žít život.
-          Moc se těším :)
-        image: /media/james1.jpg
-      - name: Jusťa
-        text: >+
-          Jsem Jusťa – trochu chaotička, trochu entusiastka, která ráda sdílí
-          své vědomosti a zkušenosti s ostatními a zároveň se od nich učí.
-
-
-          Miluju cestování, pohyb, hudbu, deep konverzace a zkoušení nových
-          věcí. Často nevím, co vlastně chci, a tak se snažím objevovat a
-          zkoušet. Snažím se aktivně vystupovat z komfortní zóny, i když je to
-          občas fakt nepříjemné.
-
-
-          Moje aktuální challenge je zpomalit – prostě být a nesnažit se pořád
-          za něčím hnát. Mám tendenci vrhat se do všeho, co mě nadchne, ale pak
-          se snadno zahltím a hledám rovnováhu.
-
-
-          Studuju sociální pedagogiku se zaměřením na spiritualitu a komunikaci.
-          Zároveň vedu světlušky a jsem součástí výchovného zpravodajstva našeho
-          střediska.
-
-
-          Těším se na další lidi, které na Veronice poznám, tak neváhej a
-          přihlaš se!
-
-
-
-        image: /media/IMG_1185.jpg
       - name: Čenda
         text: ''
       - name: Ančis
@@ -98,6 +66,38 @@ teams:
           dramaťáku a chtěla bych se dále profilovat v environmentu nebo
           pedagogice.
         image: /media/paja1.jpg
+      - name: Jusťa
+        text: >+
+          Jsem Jusťa – trochu chaotička, trochu entusiastka, která ráda sdílí
+          své vědomosti a zkušenosti s ostatními a zároveň se od nich učí.
+
+
+          Miluju cestování, pohyb, hudbu, deep konverzace a zkoušení nových
+          věcí. Často nevím, co vlastně chci, a tak se snažím objevovat a
+          zkoušet. Snažím se aktivně vystupovat z komfortní zóny, i když je to
+          občas fakt nepříjemné.
+
+
+          Moje aktuální challenge je zpomalit – prostě být a nesnažit se pořád
+          za něčím hnát. Mám tendenci vrhat se do všeho, co mě nadchne, ale pak
+          se snadno zahltím a hledám rovnováhu.
+
+
+          Studuju sociální pedagogiku se zaměřením na spiritualitu a komunikaci.
+          Zároveň vedu světlušky a jsem součástí výchovného zpravodajstva našeho
+          střediska.
+
+
+          Těším se na další lidi, které na Veronice poznám, tak neváhej a
+          přihlaš se!
+
+
+
+        image: /media/IMG_1185.jpg
+      - name: Tuli
+        text: ''
+      - name: Váva
+        text: ''
   - name: Servis tým
     members:
       - name: Mido
