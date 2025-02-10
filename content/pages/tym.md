@@ -3,6 +3,7 @@ title: Tým
 teams:
   - name: Instruktorský tým
     members:
+      - name: Ančis
       - name: Nina
       - name: Klárka
         text: >
