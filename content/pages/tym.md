@@ -100,8 +100,19 @@ teams:
         text: ''
   - name: Servis tým
     members:
-      - name: Mido
-        text: ''
+      - name: Kenny
+        text: >
+          na mojí první výpravě mi dali přezdívku kenny, který jsem se nikdy
+          nezbavila, ale vlastně jí mám fakt ráda, ale komoleniny jmen radši. na
+          veronice s holkama vaříme prvním rokem tak s náma měj trochu
+          trpělivosti. skautuju v pražskym středisku Javor, konkrétně v
+          koedukovaným oddílu Lvíčat a zároveň dodělávám poslední rok na střední
+          a makám v baru. jsem trochu nešikovná a nejde mi být seriózní, ráda si
+          povídám ale je možný že přestanu dávat pozor. mám ráda kočky a když
+          nevidím svoje kamarády den, už se mi po nich stýská. taky ráda cestuju
+          a mám nemístný humor. nemám ráda zimu protože je mi permanentně zima a
+          pořád je tma.
+        image: /media/IMG_4013.jpg
       - name: Teri
         text: >+
           Ahooj, jsem Terka a nejsem ani z Brna, ani z Prahy, ale z úplně malý
@@ -125,19 +136,8 @@ teams:
 
 
         image: /media/20240701205820_IMG_3658.jpg
-      - name: Kenny
-        text: >
-          na mojí první výpravě mi dali přezdívku kenny, který jsem se nikdy
-          nezbavila, ale vlastně jí mám fakt ráda, ale komoleniny jmen radši. na
-          veronice s holkama vaříme prvním rokem tak s náma měj trochu
-          trpělivosti. skautuju v pražskym středisku Javor, konkrétně v
-          koedukovaným oddílu Lvíčat a zároveň dodělávám poslední rok na střední
-          a makám v baru. jsem trochu nešikovná a nejde mi být seriózní, ráda si
-          povídám ale je možný že přestanu dávat pozor. mám ráda kočky a když
-          nevidím svoje kamarády den, už se mi po nich stýská. taky ráda cestuju
-          a mám nemístný humor. nemám ráda zimu protože je mi permanentně zima a
-          pořád je tma.
-        image: /media/IMG_4013.jpg
+      - name: Mido
+        text: ''
   - name: Starci
     members:
       - name: Jojo
