@@ -138,6 +138,7 @@ teams:
           english, takže se snažim s tim něco dělat, tudíž je ze mě teď
           Potterholička, protože jsem se rozhodla přečíst všech sedm dílů
           anglicky.
+        image: /media/Jojo1.jpg
 _template: team
 ---
 
