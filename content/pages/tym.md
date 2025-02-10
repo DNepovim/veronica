@@ -48,6 +48,9 @@ teams:
       - name: Vikki
         text: ''
   - name: Servis tým
+    members:
+      - name: Kenny
+        text: ''
   - name: Starci
     members:
       - name: Babu
