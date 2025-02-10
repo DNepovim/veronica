@@ -60,7 +60,28 @@ teams:
       - name: Mido
         text: ''
       - name: Teri
-        text: ''
+        text: >+
+          Ahooj, jsem Terka a nejsem ani z Brna, ani z Prahy, ale z úplně malý
+          vesničky, která je pro všechny na druhým konci světa\:D Již
+          několikátým rokem vedu světlušky, ale teď už ne tak intenzivně,
+          protože jsem se za studiem odstěhovala pryč, kde už teda teď spíš
+          nestuduju, než studuju, ale i tak zažívám a získávám úplně supr čupr
+          nový zkušenosti. Miluju pohyb všeho druhu, ale nejlepší jsou pořádný
+          túry po horách zakončený západem sluníčka. Moc ráda ostatním
+          naslouchám a povídám si o hlubších tématech, ale sranda konverzace
+          jsou taky moje\:D Jsem taková klidná systematická dušička, co je na
+          plánování i úplně těch největších maličkostí přímo expert\:D
+
+
+          Moc ráda vařim dobrý pochoutky a dost často si vymýšlím takový svoje
+          divnorecepty, ale není čeho se bát, na Veronice experimentovat s
+          holkama určitě nebudeme a když joo, tak jen v tom nejlepším světle:))
+          Takže určitě neváhej a přihlaš se, ať ochutnáš nejenom skvělý jídla,
+          ale i úžasný chvíle a zážitky s ostatními!
+
+
+
+        image: /media/20240701205820_IMG_3658.jpg
       - name: Kenny
         text: >
           na mojí první výpravě mi dali přezdívku kenny, který jsem se nikdy
