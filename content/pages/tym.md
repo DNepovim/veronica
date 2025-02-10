@@ -49,6 +49,7 @@ teams:
         text: ''
   - name: Servis tým
     members:
+      - name: Teri
       - name: Kenny
         text: ''
   - name: Starci
