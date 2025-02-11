@@ -30,7 +30,16 @@ teams:
           (tak mi klíďo říkej, mám to ráda)
         image: /media/IMG_2572.jpg
       - name: Čenda
-        text: ''
+        text: >
+          ahoj, sem Čenda a sem z Brna. Už několikátým rokem tu vedu chlapecký
+          oddíl Orion, a pořád mě to baví. K tomu mě letos ještě uchvátila
+          Verca, a myslím, že mě to bude bavit taky :). V životě se furt tak
+          nějak hodně hledám, a velmi často zkouším nové věci, u kterých pak
+          zůstanu, a nebo si najdu nějaké další. A že se jich teď docela
+          nakupilo! Moc rád fotím, jezdím na kole, jednokolce či skejtu, běhám,
+          boulderuju, kreslím a tetuju, miluju cestování a poznávání nových lidí
+          - a moc se těším, až na Verci poznám spoustu super dalších!
+        image: /media/6a592b6e-f8b8-4557-92a7-08b0af9da72a.jpg
       - name: Ančis
         text: ''
       - name: Nina
