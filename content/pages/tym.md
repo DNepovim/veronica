@@ -137,7 +137,38 @@ teams:
 
         image: /media/20240701205820_IMG_3658.jpg
       - name: Mido
-        text: ''
+        text: >+
+          Jsem Mido, jsem z Brna a podávám ti ruku a pak rukama rozhodím do
+          vzduchu a povídám, že budu na Veronice vařit a pak rychle schovám ty
+          ruce do kapes, protože vím, že je budu při vaření potřebovat a že snad
+          ti tyjo bude chutnat.
+
+
+          A já mám najednou mluvit o sobě a říkám ti, že mám ráda role play a že
+          se na roli kuchaře moc těším a pak se tě zeptám, jestli ses někdy
+          rozeběhlx z kopce tak rychle, že ti nešlo se zastavit a ty ses chtělx
+          smát a nemohlx přestat a ten moment jako by pořád nabíral rychlost a
+          tobě nohy kmitaly a nešly zastavit, ani jsi nevědělx jestli se bojíš
+          nebo si to užíváš a pak jsi spadlx a trochu to bolelo, ale stejně ses
+          smálx dál, protože se to zdálo jako ta nejjednodušší věc na světě a
+          bylo to vlastně hrozně příjemné a tak jsi leželx na trávě a po chvíli
+          všechno jako by se přeci jen uklidnilo a ty najednou slyšelx vlastní
+          dech, zvuky kolem sebe a mělx čas se zastavit a podívat na to, jak je
+          obloha vlastně modrá. Třeba takový věci já mám ráda.
+
+
+          Na Veronice se budeme potkávat většinou u jídla, ale prý nejen chlebem
+          živ je člověk a já si troufám doufat, že spolu třeba i prohodíme
+          nějaké slůvko nebo si zahrajeme hru. Hraješ?
+
+
+          Další věc, co já ráda totiž je, že poznávám nový věci, ochutnávám a
+          těším se na Veronicu, protože tam prý za každou zatáčkou můžeš potkat
+          knedlík s omáčkou!
+
+
+
+        image: /media/b&w_medailonek fotka.jpg
   - name: Starci
     members:
       - name: Jojo
