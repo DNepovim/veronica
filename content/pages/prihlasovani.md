@@ -4,7 +4,9 @@ text: >
   # Přihlašování pro ročník 2025:
 
 
-  Stay tuned, přijde brzy.
+  Je
+  [TADY](https://docs.google.com/forms/d/e/1FAIpQLScJqS26kqsW3-PAWMmgmm_HoLbmGcPJgtLfd1XRYJQfiR0RVg/viewform)!
+  Pojeď s náma!
 
 
   # Pro koho je kurz určen:
