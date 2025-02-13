@@ -52,7 +52,7 @@ teams:
           kámošstvo. Aktuálně jsem propadla kouzlo lezení a hraní karet u piva,
           haha. Veronica je pro mě místo, kde se můžu posouvat, poznávat a
           překonávat sebe sama, a zároveň prostředím, kde se cítím bezpečně na
-          sdílení a předávání myšlenek a zkušeností. 
+          sdílení a předávání myšlenek a zkušeností.
         image: /media/IMG_2080.jpg
       - name: Matěj
         text: >
@@ -76,7 +76,7 @@ teams:
           pedagogice.
         image: /media/paja1.jpg
       - name: Jusťa
-        text: >+
+        text: >
           Jsem Jusťa – trochu chaotička, trochu entusiastka, která ráda sdílí
           své vědomosti a zkušenosti s ostatními a zároveň se od nich učí.
 
@@ -99,9 +99,6 @@ teams:
 
           Těším se na další lidi, které na Veronice poznám, tak neváhej a
           přihlaš se!
-
-
-
         image: /media/IMG_1185.jpg
       - name: Tuli
         text: ''
@@ -109,6 +106,24 @@ teams:
         text: ''
   - name: Servis tým
     members:
+      - name: Grace
+        text: >+
+          Caukyy, jsem Grace a mam rada spoustu veci. Ze zacatku treba serialy,
+          chemii, balet nebo block blast. Veci co nemam rada moc neni ale jedna
+          z nich je treba syntax(doufam ze to nejde moc poznat). Posledni dobou
+          uz moc nevedu a mozna je to trosku brzo na to ze jsem jeste
+          nedokoncila stredni ale jsem just a girl co je jen trosku bussy. Jinak
+          jsem z Brna z Vrbovce a naky Brnesky na cute kavarny nebo sekace
+          tipiky rada ziskam i predam :)
+
+
+          Na Veronice budu varit a bude to challange. Uplne bych se kucharem
+          nenazvala ale rada zkousim ruzny crazy receptiky a varici lifehacky a
+          doufam ze je prijedete ochutnat.
+
+
+
+        image: /media/IMG_7464.jpg
       - name: Kenny
         text: >
           na mojí první výpravě mi dali přezdívku kenny, který jsem se nikdy
@@ -123,7 +138,7 @@ teams:
           pořád je tma.
         image: /media/IMG_4013.jpg
       - name: Teri
-        text: >+
+        text: >
           Ahooj, jsem Terka a nejsem ani z Brna, ani z Prahy, ale z úplně malý
           vesničky, která je pro všechny na druhým konci světa\:D Již
           několikátým rokem vedu světlušky, ale teď už ne tak intenzivně,
@@ -141,12 +156,9 @@ teams:
           holkama určitě nebudeme a když joo, tak jen v tom nejlepším světle:))
           Takže určitě neváhej a přihlaš se, ať ochutnáš nejenom skvělý jídla,
           ale i úžasný chvíle a zážitky s ostatními!
-
-
-
         image: /media/20240701205820_IMG_3658.jpg
       - name: Mido
-        text: >+
+        text: >
           Jsem Mido, jsem z Brna a podávám ti ruku a pak rukama rozhodím do
           vzduchu a povídám, že budu na Veronice vařit a pak rychle schovám ty
           ruce do kapes, protože vím, že je budu při vaření potřebovat a že snad
@@ -174,9 +186,6 @@ teams:
           Další věc, co já ráda totiž je, že poznávám nový věci, ochutnávám a
           těším se na Veronicu, protože tam prý za každou zatáčkou můžeš potkat
           knedlík s omáčkou!
-
-
-
         image: /media/b&w_medailonek fotka.jpg
   - name: Starci
     members:
