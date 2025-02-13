@@ -101,7 +101,8 @@ teams:
           přihlaš se!
         image: /media/IMG_1185.jpg
       - name: Tuli
-        text: ''
+        text: "Jsem tuli, ale vůbec se tak nejmenuju. Skautuju už hrozně dlouho v Brně-Líšni a\n\nVeronica je pro mě z instruktorskýho pohledu novej vesmír, stejně jako je pro tebe z toho účastnickýho.\_\n\nMám ráda barevno a kreativno, poslouchám hodně hudby, čtu a taky skejtuju. I přes svoji introvertní duši si ráda ordinuju věci mimo svoji komfortní zónu. Jsem organizační freak, takže když u sebe nemám diář, schůzku si se mnou nedomluvíš\\:D. Taky jsem zastánce dlouhých konverzací mezi málo očima a jen tak bytí (na kterým ještě pracuju).\n\nStuduju socped na fildě v Brně.\n\n\n\n"
+        image: /media/476375064_1794933141288902_1807899079924149835_n (1).jpg
       - name: Váva
         text: ''
   - name: Servis tým
