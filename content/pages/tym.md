@@ -106,24 +106,6 @@ teams:
         text: ''
   - name: Servis tým
     members:
-      - name: Grace
-        text: >+
-          Caukyy, jsem Grace a mam rada spoustu veci. Ze zacatku treba serialy,
-          chemii, balet nebo block blast. Veci co nemam rada moc neni ale jedna
-          z nich je treba syntax(doufam ze to nejde moc poznat). Posledni dobou
-          uz moc nevedu a mozna je to trosku brzo na to ze jsem jeste
-          nedokoncila stredni ale jsem just a girl co je jen trosku bussy. Jinak
-          jsem z Brna z Vrbovce a naky Brnesky na cute kavarny nebo sekace
-          tipiky rada ziskam i predam :)
-
-
-          Na Veronice budu varit a bude to challange. Uplne bych se kucharem
-          nenazvala ale rada zkousim ruzny crazy receptiky a varici lifehacky a
-          doufam ze je prijedete ochutnat.
-
-
-
-        image: /media/IMG_7464.jpg
       - name: Kenny
         text: >
           na mojí první výpravě mi dali přezdívku kenny, který jsem se nikdy
@@ -137,6 +119,21 @@ teams:
           a mám nemístný humor. nemám ráda zimu protože je mi permanentně zima a
           pořád je tma.
         image: /media/IMG_4013.jpg
+      - name: Grace
+        text: >
+          Caukyy, jsem Grace a mam rada spoustu veci. Ze zacatku treba serialy,
+          chemii, balet nebo block blast. Veci co nemam rada moc neni ale jedna
+          z nich je treba syntax(doufam ze to nejde moc poznat). Posledni dobou
+          uz moc nevedu a mozna je to trosku brzo na to ze jsem jeste
+          nedokoncila stredni ale jsem just a girl co je jen trosku bussy. Jinak
+          jsem z Brna z Vrbovce a naky Brnesky na cute kavarny nebo sekace
+          tipiky rada ziskam i predam :)
+
+
+          Na Veronice budu varit a bude to challange. Uplne bych se kucharem
+          nenazvala ale rada zkousim ruzny crazy receptiky a varici lifehacky a
+          doufam ze je prijedete ochutnat.
+        image: /media/IMG_7464.jpg
       - name: Teri
         text: >
           Ahooj, jsem Terka a nejsem ani z Brna, ani z Prahy, ale z úplně malý
