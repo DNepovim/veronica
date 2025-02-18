@@ -43,7 +43,8 @@ teams:
       - name: Ančis
         text: ''
       - name: Nina
-        text: ''
+        text: "lidé o mně v minulosti řekli, že jsem random a že mám ráda věci, který jsou tak jako jenom hezký, můj hudební vkus byl označen za nejlepší a nejhorší zároveň (to však nemohu objektivně posoudit), taky by se se mnou prý lidi chtěli kamarádit, kdybych nebyla tak hustá a děsivá (thick and scary pro anglicky mluvící), s tím však nesouhlasím, nejsem ani hustá ani děsivá a kamarádím se ráda\_\n\nz veroniky jsem si minulý rok odvezla, že lidi inspiruje můj klid - tak to teda nevim jakej, jsem chodící chaos\n\nkdybych byla životní motto, tak bych asi byla žij život, pij pivo, nebo každý svého štěstí strůjcem, nebo nějaký úplně jiný, hehe\n\nmůj oblíbený tvar těstovin jsou asi kolínka a nerespektuji corny big banánovou a sojový suk\n\nkdybych byla kytka, tak bych prý byla slunečnice (dotazovaný nezná jiný kytky), asi jsem statná a vysoká\n\nráda se raduju a nerada se neraduju\n\na jak řekl můj oblíbený vegan Benny Cristo: “dělám jen to co vajbim”\n\n\n\n"
+        image: /media/IMG_4815.jpg
       - name: Klárka
         text: >
           Ahojky! Jsem Klára z Brna a už několikátým rokem vedu v našem oddílu
@@ -101,7 +102,7 @@ teams:
           přihlaš se!
         image: /media/IMG_1185.jpg
       - name: Tuli
-        text: "Jsem tuli, ale vůbec se tak nejmenuju. Skautuju už hrozně dlouho v Brně-Líšni a\n\nVeronica je pro mě z instruktorskýho pohledu novej vesmír, stejně jako je pro tebe z toho účastnickýho.\_\n\nMám ráda barevno a kreativno, poslouchám hodně hudby, čtu a taky skejtuju. I přes svoji introvertní duši si ráda ordinuju věci mimo svoji komfortní zónu. Jsem organizační freak, takže když u sebe nemám diář, schůzku si se mnou nedomluvíš\\:D. Taky jsem zastánce dlouhých konverzací mezi málo očima a jen tak bytí (na kterým ještě pracuju).\n\nStuduju socped na fildě v Brně.\n\n\n\n"
+        text: "Jsem tuli, ale vůbec se tak nejmenuju. Skautuju už hrozně dlouho v Brně-Líšni a\n\nVeronica je pro mě z instruktorskýho pohledu novej vesmír, stejně jako je pro tebe z toho účastnickýho.\_\n\nMám ráda barevno a kreativno, poslouchám hodně hudby, čtu a taky skejtuju. I přes svoji introvertní duši si ráda ordinuju věci mimo svoji komfortní zónu. Jsem organizační freak, takže když u sebe nemám diář, schůzku si se mnou nedomluvíš\\:D. Taky jsem zastánce dlouhých konverzací mezi málo očima a jen tak bytí (na kterým ještě pracuju).\n\nStuduju socped na fildě v Brně.\n"
         image: /media/476375064_1794933141288902_1807899079924149835_n (1).jpg
       - name: Váva
         text: ''
