@@ -41,9 +41,15 @@ teams:
           - a moc se těším, až na Verci poznám spoustu super dalších!
         image: /media/6a592b6e-f8b8-4557-92a7-08b0af9da72a.jpg
       - name: Ančis
-        text: ''
+        text: >
+          Hojhojahoj, jsem Ančis, jsem z Prahy. Už moc neskautuju ale Veronice
+          se věnuji už několikátej rok. Sebe bych popsala jako koně s klapkama
+          na očích ale bez vaty v uších, protože mám bizarně zuženou pozornost a
+          dokážu si jednoduše splašit kopýtka. Kromě toho studuju sochu na AVU a
+          vařim kafe babičkám a middle age otcům na nádraží v Bubenči.
+        image: /media/DBC9EA49-E863-4202-938B-BC9563055355.jpg
       - name: Nina
-        text: "lidé o mně v minulosti řekli, že jsem random a že mám ráda věci, který jsou tak jako jenom hezký, můj hudební vkus byl označen za nejlepší a nejhorší zároveň (to však nemohu objektivně posoudit), taky by se se mnou prý lidi chtěli kamarádit, kdybych nebyla tak hustá a děsivá (thick and scary pro anglicky mluvící), s tím však nesouhlasím, nejsem ani hustá ani děsivá a kamarádím se ráda\_\n\nz veroniky jsem si minulý rok odvezla, že lidi inspiruje můj klid - tak to teda nevim jakej, jsem chodící chaos\n\nkdybych byla životní motto, tak bych asi byla žij život, pij pivo, nebo každý svého štěstí strůjcem, nebo nějaký úplně jiný, hehe\n\nmůj oblíbený tvar těstovin jsou asi kolínka a nerespektuji corny big banánovou a sojový suk\n\nkdybych byla kytka, tak bych prý byla slunečnice (dotazovaný nezná jiný kytky), asi jsem statná a vysoká\n\nráda se raduju a nerada se neraduju\n\na jak řekl můj oblíbený vegan Benny Cristo: “dělám jen to co vajbim”\n\n\n\n"
+        text: "lidé o mně v minulosti řekli, že jsem random a že mám ráda věci, který jsou tak jako jenom hezký, můj hudební vkus byl označen za nejlepší a nejhorší zároveň (to však nemohu objektivně posoudit), taky by se se mnou prý lidi chtěli kamarádit, kdybych nebyla tak hustá a děsivá (thick and scary pro anglicky mluvící), s tím však nesouhlasím, nejsem ani hustá ani děsivá a kamarádím se ráda\_\n\nz veroniky jsem si minulý rok odvezla, že lidi inspiruje můj klid - tak to teda nevim jakej, jsem chodící chaos\n\nkdybych byla životní motto, tak bych asi byla žij život, pij pivo, nebo každý svého štěstí strůjcem, nebo nějaký úplně jiný, hehe\n\nmůj oblíbený tvar těstovin jsou asi kolínka a nerespektuji corny big banánovou a sojový suk\n\nkdybych byla kytka, tak bych prý byla slunečnice (dotazovaný nezná jiný kytky), asi jsem statná a vysoká\n\nráda se raduju a nerada se neraduju\n\na jak řekl můj oblíbený vegan Benny Cristo: “dělám jen to co vajbim”\n"
         image: /media/IMG_4815.jpg
       - name: Klárka
         text: >
