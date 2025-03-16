@@ -24,7 +24,7 @@ teams:
           (V tu chvíli zazní z vedlejší místnosti podivný zvuk, jakoby něco
           těžkého spadlo na zem. Oba se ohlédnou. Kája se zamračí, Franta
           ztuhne)
-        image: /media/IMG_8101.jpg
+        image: /media/IMG_8101 2.jpg
       - name: Čas
         text: >
           čas? tak ten právě na napsání téhle anotace moc nemáme. a nebo jo? já
