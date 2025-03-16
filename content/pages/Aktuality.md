@@ -37,6 +37,7 @@ teams:
 
           \#TimeManagement #Priority #Odpočinek #Plánování #ŘíkatNe
           #Prokrastinace
+        image: /media/IMG_8102.jpg
       - name: Komunikace
         text: >
           Říká se: “ty mluvíš o voze, ale já mluvim o koze.” Chceš tomu
