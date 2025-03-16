@@ -37,7 +37,11 @@ teams:
           \#TimeManagement #Priority #Odpočinek #Plánování #ŘíkatNe
           #Prokrastinace
       - name: Komunikace
-        text: ''
+        text: >
+          Říká se: “ty mluvíš o voze, ale já mluvim o koze.” Chceš tomu
+          předcházet? Na Veronice se pokusíme porozumět samy\*i sobě i ostatním,
+          komunikovat své pocity a potřeby a posílit schopnosti aktivně
+          naslouchat svému okolí.
 _template: team
 ---
 
