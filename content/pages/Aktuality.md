@@ -8,26 +8,17 @@ teams:
           (Dva kamarádi se loučí po workshopu háčkování ve skautském institutu.)
 
 
-          Franta:
+          Franta: Díky za dnešek, nechceš zajít zítra na hranolky? Budeme se tam
+          s kamíkama bavit o tom, že se teď dějou ve světě docela šílenosti a
+          nám se to fakt nelíbí.
 
 
-          Díky za dnešek, nechceš zajít zítra na hranolky? Budeme se tam s
-          kamíkama bavit o tom, že se teď dějou ve světě docela šílenosti a nám
-          se to fakt nelíbí.
-
-
-          Kája:
-
-
-          Hmmm, to zní fajnově. Neznámí lidičkové mě upřímně trochu děsí, ale je
-          to dosti lákavé. Je v poho, že bych kdyžtak s vámi strávila jen
+          Kája: Hmmm, to zní fajnově. Neznámí lidičkové mě upřímně trochu děsí,
+          ale je to dosti lákavé. Je v poho, že bych kdyžtak s vámi strávila jen
           chvíli?
 
 
-          Franta:
-
-
-          Jasně, jak ti bude příjemný. Kdyžtak si řek...
+          Franta: Jasně, jak ti bude příjemný. Kdyžtak si řek...
 
 
           (V tu chvíli zazní z vedlejší místnosti podivný zvuk, jakoby něco
