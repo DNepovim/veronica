@@ -23,7 +23,7 @@ teams:
 
           (V tu chvíli zazní z vedlejší místnosti podivný zvuk, jakoby něco
           těžkého spadlo na zem. Oba se ohlédnou. Kája se zamračí, Franta
-          ztuhne(
+          ztuhne)
       - name: Čas
         text: >
           čas? tak ten právě na napsání téhle anotace moc nemáme. a nebo jo? já
