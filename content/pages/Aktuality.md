@@ -44,6 +44,7 @@ teams:
           předcházet? Na Veronice se pokusíme porozumět samy\*i sobě i ostatním,
           komunikovat své pocity a potřeby a posílit schopnosti aktivně
           naslouchat svému okolí.
+        image: /media/IMG_8103.jpg
 _template: team
 ---
 
