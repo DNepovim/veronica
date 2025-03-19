@@ -14,21 +14,33 @@ export async function generateStaticParams() {
           return [
             { slug: [p?.node?._sys.filename] },
             ...(p?.node?.teams?.flatMap(
-              (t) => t?.members?.map((m) => ({ slug: [p?.node?._sys.filename, webalize(m?.name ?? "")] })),
+              (t) =>
+                t?.members?.map((m) => ({
+                  slug: [p?.node?._sys.filename, webalize(m?.name ?? "")],
+                })),
             ) ?? []),
           ];
         }
         return { slug: [p?.node?._sys.filename] };
       })
-      .filter((p): p is Exclude<typeof p, null | undefined> => p !== null && p !== undefined) ?? [];
+      .filter(
+        (p): p is Exclude<typeof p, null | undefined> =>
+          p !== null && p !== undefined,
+      ) ?? [];
 
   return pages;
 }
 
-export async function generateMetadata({ params }: { params: { slug: string[] } }): Promise<Metadata> {
+export async function generateMetadata({
+  params,
+}: {
+  params: { slug: string[] };
+}): Promise<Metadata> {
   const [currentUrl, activeItem] = params.slug;
 
-  const { data: siteConfig } = await client.queries.configuration({ relativePath: "siteConfig.json" });
+  const { data: siteConfig } = await client.queries.configuration({
+    relativePath: "siteConfig.json",
+  });
 
   const { title, description } = siteConfig.configuration;
 
@@ -40,8 +52,12 @@ export async function generateMetadata({ params }: { params: { slug: string[] } 
 
   if (pages.__typename === "PagesTeam") {
     const allMembers =
-      pages.teams?.flatMap((t) => t?.members ?? []).filter((m): m is Exclude<typeof m, null> => m !== null) ?? [];
-    const activeMember = allMembers.find((m) => webalize(m.name) === activeItem);
+      pages.teams
+        ?.flatMap((t) => t?.members ?? [])
+        .filter((m): m is Exclude<typeof m, null> => m !== null) ?? [];
+    const activeMember = allMembers.find(
+      (m) => webalize(m.name) === activeItem,
+    );
 
     const pageTitle = activeMember ? activeMember.name : pages.title;
 
@@ -65,7 +81,9 @@ export default async function Page({ params }: { params: { slug: string } }) {
   });
 
   if (pages.__typename === "PagesTeam") {
-    const filteredTeams = pages.teams?.filter((t): t is Exclude<typeof t, null> => t !== null) ?? [];
+    const filteredTeams =
+      pages.teams?.filter((t): t is Exclude<typeof t, null> => t !== null) ??
+      [];
     return <TeamsPage teams={filteredTeams} {...{ currentUrl, activeItem }} />;
   }
 
