@@ -4,7 +4,8 @@ teams:
   - name: další ročník?
     members:
       - name: už se vaří
-  - name: Na co se můžeš těšit?
+        text: ''
+  - name: na co se můžeš těšit?
     members:
       - name: Komunita
         text: >
