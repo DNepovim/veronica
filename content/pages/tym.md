@@ -205,6 +205,19 @@ teams:
         image: /media/b&w_medailonek fotka.jpg
   - name: Starci
     members:
+      - name: Váva
+        text: >
+          Čau, já jsem Váva. Jsem od Litoměřic a oddíl, který teď pomalu
+          předávám, mám v Praze. Pro zábavu ráda kreslím, jezdím pryč z
+          republiky i po ní, hraju na kytaru, lezu a objevuju kulturu. Pro
+          zodpovědné žití života studuju biologii a pracuju v kině (což je taky
+          moc fajn) a učím se říkat si ne na kulturní akce, abych dostudovala
+          úspěšně (to je o něco míň fajn).
+
+
+          Víš, proč má datel zobák? Ne? A chceš to vědět? Tak pojeď na Veronicu.
+          ;)
+        image: /media/IMG_2353.jpg
       - name: Tuli
         text: "Jsem tuli, ale vůbec se tak nejmenuju. Skautuju už hrozně dlouho v Brně-Líšni a\n\nVeronica je pro mě z instruktorskýho pohledu novej vesmír, stejně jako je pro tebe z toho účastnickýho.\_\n\nMám ráda barevno a kreativno, poslouchám hodně hudby, čtu a taky skejtuju. I přes svoji introvertní duši si ráda ordinuju věci mimo svoji komfortní zónu. Jsem organizační freak, takže když u sebe nemám diář, schůzku si se mnou nedomluvíš\\:D. Taky jsem zastánce dlouhých konverzací mezi málo očima a jen tak bytí (na kterým ještě pracuju).\n\nStuduju socped na fildě v Brně.\n"
         image: /media/476375064_1794933141288902_1807899079924149835_n (1).jpg
