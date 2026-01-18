@@ -205,6 +205,14 @@ teams:
         image: /media/b&w_medailonek fotka.jpg
   - name: Starci
     members:
+      - name: Ančis
+        text: >
+          Hojhojahoj, jsem Ančis, jsem z Prahy. Už moc neskautuju ale Veronice
+          se věnuji už několikátej rok. Sebe bych popsala jako koně s klapkama
+          na očích ale bez vaty v uších, protože mám bizarně zuženou pozornost a
+          dokážu si jednoduše splašit kopýtka. Kromě toho studuju sochu na AVU a
+          vařim kafe babičkám a middle age otcům na nádraží v Bubenči.
+        image: /media/DBC9EA49-E863-4202-938B-BC9563055355.jpg
       - name: Mája
         text: >
           Utekla jsem z Prahy do Brna a je to super. Studuji divadelní produkci
