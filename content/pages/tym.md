@@ -111,7 +111,7 @@ teams:
         text: "Jsem tuli, ale vůbec se tak nejmenuju. Skautuju už hrozně dlouho v Brně-Líšni a\n\nVeronica je pro mě z instruktorskýho pohledu novej vesmír, stejně jako je pro tebe z toho účastnickýho.\_\n\nMám ráda barevno a kreativno, poslouchám hodně hudby, čtu a taky skejtuju. I přes svoji introvertní duši si ráda ordinuju věci mimo svoji komfortní zónu. Jsem organizační freak, takže když u sebe nemám diář, schůzku si se mnou nedomluvíš\\:D. Taky jsem zastánce dlouhých konverzací mezi málo očima a jen tak bytí (na kterým ještě pracuju).\n\nStuduju socped na fildě v Brně.\n"
         image: /media/476375064_1794933141288902_1807899079924149835_n (1).jpg
       - name: Váva
-        text: >+
+        text: >
           Čau, já jsem Váva. Jsem od Litoměřic a oddíl, který teď pomalu
           předávám, mám v Praze. Pro zábavu ráda kreslím, jezdím pryč z
           republiky i po ní, hraju na kytaru, lezu a objevuju kulturu. Pro
@@ -122,9 +122,6 @@ teams:
 
           Víš, proč má datel zobák? Ne? A chceš to vědět? Tak pojeď na Veronicu.
           ;)
-
-
-
         image: /media/IMG_2353.jpg
   - name: Servis tým
     members:
@@ -208,6 +205,23 @@ teams:
         image: /media/b&w_medailonek fotka.jpg
   - name: Starci
     members:
+      - name: Mája
+        text: >
+          Utekla jsem z Prahy do Brna a je to super. Studuji divadelní produkci
+          a ačkoliv divadlo miluju, z toho produkčního pohledu mě to tak moc
+          neba. Radši dělám fesťáky, koncerty, akcičky. Ale tohle není profesní
+          záměr, tohle je instruktorský medailonek. Neskromně přiznávám, že jsem
+          definice balancu mezi punkem a puntíčkářstvím. Nějakou dobu jsem na
+          Veronice vařila super mňamky, tak uvidíme, jaké budu vařit programy.
+          Ve skautské lince svého života pět let vedu oddíl, pár let jsem
+          působila na Žirafě Střed a dělám produkci pro Časopis Skaut. Kdybych
+          byla jídlo, budu kynuté těsto, protože umím solidně vybobtnat a když
+          se na tebe přilepím, už se mě jen tak nezbavíš. Ale to zjistíš na
+          kurzu. Zeptej se mě na cokoliv, jsem otevřená kniha a nic pro mě není
+          tabu. Jo a kdyby ti přišlo, že jsem až moc cool a nějak tě to
+          omezovalo, klidně řekni, něco s tím provedem. Těším se na tebe! Marie
+          (tak mi klíďo říkej, mám to ráda)
+        image: /media/IMG_2572.jpg
       - name: Jojo
         text: >
           Jsem Jojo. Ráda dělám v životě věci, co mi dávají smysl a který můžu
