@@ -205,6 +205,18 @@ teams:
         image: /media/b&w_medailonek fotka.jpg
   - name: Starci
     members:
+      - name: Pája
+        text: >
+          Ahoj, jmenuji se Pája. Jsem z Brna, kde i v 16. oddílu Allium už
+          třetím rokem skautuju. Často mě můžete vidět se hodně smát nebo
+          háčkovat cokoliv užitečného i neužitečného. Ráda hledám nové činnosti,
+          které mě budou bavit a dávat smysl dělat. Začala jsem takhle například
+          šít ledvinky z upcyklovaného materiálu nebo objevuji méně známé české
+          kapely a chození na jejich koncerty je už takový můj denní chleba.
+          Dokončuji tento rok střední pedagogickou školu se specializací
+          dramaťáku a chtěla bych se dále profilovat v environmentu nebo
+          pedagogice.
+        image: /media/paja1.jpg
       - name: Matěj
         text: >
           Já jsem Matěj. Jsem z Brna, konkrétně z Židenic, což formovalo velkou
