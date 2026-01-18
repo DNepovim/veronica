@@ -12,23 +12,6 @@ teams:
           koukat na rybník nebo hrát deskovky nebo hrát nedeskovky a žít život.
           Moc se těším :)
         image: /media/james1.jpg
-      - name: Mája
-        text: >
-          Utekla jsem z Prahy do Brna a je to super. Studuji divadelní produkci
-          a ačkoliv divadlo miluju, z toho produkčního pohledu mě to tak moc
-          neba. Radši dělám fesťáky, koncerty, akcičky. Ale tohle není profesní
-          záměr, tohle je instruktorský medailonek. Neskromně přiznávám, že jsem
-          definice balancu mezi punkem a puntíčkářstvím. Nějakou dobu jsem na
-          Veronice vařila super mňamky, tak uvidíme, jaké budu vařit programy.
-          Ve skautské lince svého života pět let vedu oddíl, pár let jsem
-          působila na Žirafě Střed a dělám produkci pro Časopis Skaut. Kdybych
-          byla jídlo, budu kynuté těsto, protože umím solidně vybobtnat a když
-          se na tebe přilepím, už se mě jen tak nezbavíš. Ale to zjistíš na
-          kurzu. Zeptej se mě na cokoliv, jsem otevřená kniha a nic pro mě není
-          tabu. Jo a kdyby ti přišlo, že jsem až moc cool a nějak tě to
-          omezovalo, klidně řekni, něco s tím provedem. Těším se na tebe! Marie
-          (tak mi klíďo říkej, mám to ráda)
-        image: /media/IMG_2572.jpg
       - name: Čenda
         text: >
           ahoj, sem Čenda a sem z Brna. Už několikátým rokem tu vedu chlapecký
@@ -40,17 +23,6 @@ teams:
           boulderuju, kreslím a tetuju, miluju cestování a poznávání nových lidí
           - a moc se těším, až na Verci poznám spoustu super dalších!
         image: /media/6a592b6e-f8b8-4557-92a7-08b0af9da72a.jpg
-      - name: Ančis
-        text: >
-          Hojhojahoj, jsem Ančis, jsem z Prahy. Už moc neskautuju ale Veronice
-          se věnuji už několikátej rok. Sebe bych popsala jako koně s klapkama
-          na očích ale bez vaty v uších, protože mám bizarně zuženou pozornost a
-          dokážu si jednoduše splašit kopýtka. Kromě toho studuju sochu na AVU a
-          vařim kafe babičkám a middle age otcům na nádraží v Bubenči.
-        image: /media/DBC9EA49-E863-4202-938B-BC9563055355.jpg
-      - name: Nina
-        text: "lidé o mně v minulosti řekli, že jsem random a že mám ráda věci, který jsou tak jako jenom hezký, můj hudební vkus byl označen za nejlepší a nejhorší zároveň (to však nemohu objektivně posoudit), taky by se se mnou prý lidi chtěli kamarádit, kdybych nebyla tak hustá a děsivá (thick and scary pro anglicky mluvící), s tím však nesouhlasím, nejsem ani hustá ani děsivá a kamarádím se ráda\_\n\nz veroniky jsem si minulý rok odvezla, že lidi inspiruje můj klid - tak to teda nevim jakej, jsem chodící chaos\n\nkdybych byla životní motto, tak bych asi byla žij život, pij pivo, nebo každý svého štěstí strůjcem, nebo nějaký úplně jiný, hehe\n\nmůj oblíbený tvar těstovin jsou asi kolínka a nerespektuji corny big banánovou a sojový suk\n\nkdybych byla kytka, tak bych prý byla slunečnice (dotazovaný nezná jiný kytky), asi jsem statná a vysoká\n\nráda se raduju a nerada se neraduju\n\na jak řekl můj oblíbený vegan Benny Cristo: “dělám jen to co vajbim”\n"
-        image: /media/IMG_4815.jpg
       - name: Klárka
         text: >
           Ahojky! Jsem Klára z Brna a už několikátým rokem vedu v našem oddílu
@@ -61,27 +33,6 @@ teams:
           překonávat sebe sama, a zároveň prostředím, kde se cítím bezpečně na
           sdílení a předávání myšlenek a zkušeností.
         image: /media/IMG_2080.jpg
-      - name: Matěj
-        text: >
-          Já jsem Matěj. Jsem z Brna, konkrétně z Židenic, což formovalo velkou
-          část mojí osobnosti (silný, nebojácný, odolný, hbitý, atd.). Tam taky
-          vedu v 69. oddíle Modrý delfín. Hodně mě baví dobrá hudba a naopak
-          hodně vadí ta špatná. Na Veronice to miluju, protože je to takovej
-          safe space, ve kterým se můžu vyjádřit ačkoliv jinde bych se třeba
-          bál.
-        image: /media/matej1.jpg
-      - name: Pája
-        text: >
-          Ahoj, jmenuji se Pája. Jsem z Brna, kde i v 16. oddílu Allium už
-          třetím rokem skautuju. Často mě můžete vidět se hodně smát nebo
-          háčkovat cokoliv užitečného i neužitečného. Ráda hledám nové činnosti,
-          které mě budou bavit a dávat smysl dělat. Začala jsem takhle například
-          šít ledvinky z upcyklovaného materiálu nebo objevuji méně známé české
-          kapely a chození na jejich koncerty je už takový můj denní chleba.
-          Dokončuji tento rok střední pedagogickou školu se specializací
-          dramaťáku a chtěla bych se dále profilovat v environmentu nebo
-          pedagogice.
-        image: /media/paja1.jpg
       - name: Jusťa
         text: >
           Jsem Jusťa – trochu chaotička, trochu entusiastka, která ráda sdílí
@@ -107,22 +58,6 @@ teams:
           Těším se na další lidi, které na Veronice poznám, tak neváhej a
           přihlaš se!
         image: /media/IMG_1185.jpg
-      - name: Tuli
-        text: "Jsem tuli, ale vůbec se tak nejmenuju. Skautuju už hrozně dlouho v Brně-Líšni a\n\nVeronica je pro mě z instruktorskýho pohledu novej vesmír, stejně jako je pro tebe z toho účastnickýho.\_\n\nMám ráda barevno a kreativno, poslouchám hodně hudby, čtu a taky skejtuju. I přes svoji introvertní duši si ráda ordinuju věci mimo svoji komfortní zónu. Jsem organizační freak, takže když u sebe nemám diář, schůzku si se mnou nedomluvíš\\:D. Taky jsem zastánce dlouhých konverzací mezi málo očima a jen tak bytí (na kterým ještě pracuju).\n\nStuduju socped na fildě v Brně.\n"
-        image: /media/476375064_1794933141288902_1807899079924149835_n (1).jpg
-      - name: Váva
-        text: >
-          Čau, já jsem Váva. Jsem od Litoměřic a oddíl, který teď pomalu
-          předávám, mám v Praze. Pro zábavu ráda kreslím, jezdím pryč z
-          republiky i po ní, hraju na kytaru, lezu a objevuju kulturu. Pro
-          zodpovědné žití života studuju biologii a pracuju v kině (což je taky
-          moc fajn) a učím se říkat si ne na kulturní akce, abych dostudovala
-          úspěšně (to je o něco míň fajn).
-
-
-          Víš, proč má datel zobák? Ne? A chceš to vědět? Tak pojeď na Veronicu.
-          ;)
-        image: /media/IMG_2353.jpg
   - name: Servis tým
     members:
       - name: Kenny
