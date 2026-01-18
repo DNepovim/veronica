@@ -205,6 +205,15 @@ teams:
         image: /media/b&w_medailonek fotka.jpg
   - name: Starci
     members:
+      - name: Matěj
+        text: >
+          Já jsem Matěj. Jsem z Brna, konkrétně z Židenic, což formovalo velkou
+          část mojí osobnosti (silný, nebojácný, odolný, hbitý, atd.). Tam taky
+          vedu v 69. oddíle Modrý delfín. Hodně mě baví dobrá hudba a naopak
+          hodně vadí ta špatná. Na Veronice to miluju, protože je to takovej
+          safe space, ve kterým se můžu vyjádřit ačkoliv jinde bych se třeba
+          bál.
+        image: /media/matej1.jpg
       - name: Nina
         text: "lidé o mně v minulosti řekli, že jsem random a že mám ráda věci, který jsou tak jako jenom hezký, můj hudební vkus byl označen za nejlepší a nejhorší zároveň (to však nemohu objektivně posoudit), taky by se se mnou prý lidi chtěli kamarádit, kdybych nebyla tak hustá a děsivá (thick and scary pro anglicky mluvící), s tím však nesouhlasím, nejsem ani hustá ani děsivá a kamarádím se ráda\_\n\nz veroniky jsem si minulý rok odvezla, že lidi inspiruje můj klid - tak to teda nevim jakej, jsem chodící chaos\n\nkdybych byla životní motto, tak bych asi byla žij život, pij pivo, nebo každý svého štěstí strůjcem, nebo nějaký úplně jiný, hehe\n\nmůj oblíbený tvar těstovin jsou asi kolínka a nerespektuji corny big banánovou a sojový suk\n\nkdybych byla kytka, tak bych prý byla slunečnice (dotazovaný nezná jiný kytky), asi jsem statná a vysoká\n\nráda se raduju a nerada se neraduju\n\na jak řekl můj oblíbený vegan Benny Cristo: “dělám jen to co vajbim”\n"
         image: /media/IMG_4815.jpg
