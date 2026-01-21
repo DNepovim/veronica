@@ -4,7 +4,7 @@ text: >
   # Přihlašování pro ročník 2026:
 
 
-  22.1-???
+  22.1. - ??.?.
 
 
   # Pro koho je kurz určen:
