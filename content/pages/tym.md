@@ -3,6 +3,23 @@ title: Tým
 teams:
   - name: Instruktorský tým
     members:
+      - name: Kuky
+        text: >+
+          Ahoj, jsem Kuky a tuhle rybu jsme chytili v řece Lemmenjoki v národním
+          parku v Laponsku do ikea sáčku za pomoci rozžvýkaných bebeček. Kamarád
+          si udělal srandu, že pokud ji chytí do pusy ze vzduchu, tak ji sní.
+          Jako každý správný vegetarián jsem teda tuhle rybičku vzala a hodila
+          ji do vzduchu… akorát asi moc dobře mířím a reálně jsem se náhodou
+          trefila tomu kamarádovi do pusy- do zubů… no a tak nějak vznikla tahle
+          fotka… A pokud vás zajímá i něco jiného, tak pojeďte na Veronicu a
+          ráda si pokecám o čemkoli!
+
+
+          (PS: fakt nejsem takový blbec a fakt mám ráda zvířátka!!…ale o tom si
+          povíme naživo…čaučau vidíme se na Veronice!!!)
+
+
+        image: /media/IMG_7769.jpg
       - name: Biváďa
         text: >
           Ahoj! Jsem Biváďa, skautuju v Hradci (Jindřichově!!!) a bydlím v
