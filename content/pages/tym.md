@@ -36,12 +36,8 @@ teams:
           LEGO.
         image: /media/3.jpg
       - name: Arvos
-        text: >
-          Zdarec, jsem Arvos a jsem z Brna. Tady spoluvedu 18. oddíl medvědy ve
-          středisku A JE TO! Mega rád chodím od posilky, cestuju, koukám na
-          filmiky či seriály, chodím do různých podniků poznávat gastronomii,
-          stavím lego, občas něco zahraju a mega rád se učím novým věcem!
-        image: /media/IMG_2935.jpg
+        text: "Zdarec, jsem Arvos a jsem z Brna. Tam spoluvedu 18. oddíl medvědi ve středisku A JE TO! Mega rád chodím od posilky, cestuju, koukám na filmiky či seriály, chodím do různých podniků poznávat gastronomii, stavím lego, občas něco zahraju a mega rád se učím novým věcem!\_\n\nTaky rád rozjíždím nový věci a několik jich na sobě, což občas je trochu pain, ale mega mě baví být pod tím stresem \\:Dd.\n\nNa Verče jsem teď nově a mega se těším až o něčem pokecáme ! (:\n"
+        image: /media/1 (2).jpg
       - name: James
         text: >
           Jsem trochu zmatený že života. Na Veronice je mi dobře, je to můj safe
