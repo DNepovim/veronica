@@ -27,7 +27,7 @@ teams:
           do čehokoli (kromě karaoke…. nebo…?). Ráda se učím novým věcem a
           poznávám nové lidi a na to je Veronica úplně ideální, mrk:) Těším se
           na vás!
-        image: /media/Biváďa fotka.jpg
+        image: /media/2.jpg
       - name: Ercas
         text: >
           Čau ahoj, jmenuji se Ercas a jsem z Brna, kde se chystám nastoupit na
