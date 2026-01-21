@@ -3,6 +3,13 @@ title: Tým
 teams:
   - name: Instruktorský tým
     members:
+      - name: Ercas
+        text: >
+          Čau ahoj, jmenuji se Ercas a jsem z Brna, kde se chystám nastoupit na
+          výšku. Potrpím si na dobrý jídlo (hlavně ve velkých porcích). Rád si
+          zahraju ragbýčko nebo skočím do gymu. Všechny svoje úspory utrácím za
+          LEGO.
+        image: /media/34bc61c37b0fc13db1863ad49d0a91a9.jpg
       - name: Arvos
         text: >
           Zdarec, jsem Arvos a jsem z Brna. Tady spoluvedu 18. oddíl medvědy ve
