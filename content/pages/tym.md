@@ -3,6 +3,16 @@ title: Tým
 teams:
   - name: Instruktorský tým
     members:
+      - name: Biváďa
+        text: >
+          Ahoj! Jsem Biváďa, skautuju v Hradci (Jindřichově!!!) a bydlím v
+          Hůrkách. Ráda trávím čas v přírodě, sportuju, čtu, vymýšlím zajímavé
+          akcičky nebo se mazlím s nějakou kočkou. Občas zkouším být kreativní
+          nebo dělat hudbu a miluju dobrý jídlo. S kamarády se vrhnu v podstatě
+          do čehokoli (kromě karaoke…. nebo…?). Ráda se učím novým věcem a
+          poznávám nové lidi a na to je Veronica úplně ideální, mrk:) Těším se
+          na vás!
+        image: /media/Biváďa fotka.jpg
       - name: Ercas
         text: >
           Čau ahoj, jmenuji se Ercas a jsem z Brna, kde se chystám nastoupit na
