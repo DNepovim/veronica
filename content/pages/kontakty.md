@@ -9,9 +9,7 @@ text: |
 
   [adam.hort.morfy@gmail.com](mailto:koutnyyradim1@skaut.cz)
 
-  ## Matěj Liška
-
-  [matej@dvojkabrno.cz](mailto:matej@dvojkabrno.cz)
+  Tel; +420 603 102 414
 _template: page
 ---
 
