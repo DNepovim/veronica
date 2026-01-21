@@ -75,30 +75,8 @@ teams:
           sdílení a předávání myšlenek a zkušeností.
         image: /media/IMG_2080.jpg
       - name: Jusťa
-        text: >
-          Jsem Jusťa – trochu chaotička, trochu entusiastka, která ráda sdílí
-          své vědomosti a zkušenosti s ostatními a zároveň se od nich učí.
-
-
-          Miluju cestování, pohyb, hudbu, deep konverzace a zkoušení nových
-          věcí. Často nevím, co vlastně chci, a tak se snažím objevovat a
-          zkoušet. Snažím se aktivně vystupovat z komfortní zóny, i když je to
-          občas fakt nepříjemné.
-
-
-          Moje aktuální challenge je zpomalit – prostě být a nesnažit se pořád
-          za něčím hnát. Mám tendenci vrhat se do všeho, co mě nadchne, ale pak
-          se snadno zahltím a hledám rovnováhu.
-
-
-          Studuju sociální pedagogiku se zaměřením na spiritualitu a komunikaci.
-          Zároveň vedu světlušky a jsem součástí výchovného zpravodajstva našeho
-          střediska.
-
-
-          Těším se na další lidi, které na Veronice poznám, tak neváhej a
-          přihlaš se!
-        image: /media/IMG_1185.jpg
+        text: "Jsem Jusťa. Trochu chaotička, trochu entusiastka, která ráda sdílí své vědomosti a zkušenosti s ostatními a zároveň se od nich učí.\n\nMiluju cestování, pohyb, hudbu, deep konverzace a zkoušení nových věcí. Často nevím, co vlastně chci, a tak se snažím objevovat a zkoušet.\_\n\nMoje aktuální challenge je zpomalit, prostě být a nesnažit se pořád za něčím hnát. Mám tendenci vrhat se do všeho, co mě nadchne, ale pak se snadno zahltím a hledám rovnováhu.\n\nStuduju sociální pedagogiku, lektoruji primární prevenci ve Skautském Institutu a Nevypusť duši. Jsem součástí výchovného zpravodajstva mého střediska, trénuji plavání, piju dobrý kafe a mluvím a směju se nahlas.\n\nTěším se na další lidi, které na Veronice poznám, tak neváhej a přihlaš se!\n\n\n"
+        image: /media/IMG_9149.jpg
   - name: Servis tým
     members:
       - name: Kenny
