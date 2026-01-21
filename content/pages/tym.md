@@ -3,6 +3,13 @@ title: Tým
 teams:
   - name: Instruktorský tým
     members:
+      - name: Arvos
+        text: >
+          Zdarec, jsem Arvos a jsem z Brna. Tady spoluvedu 18. oddíl medvědy ve
+          středisku A JE TO! Mega rád chodím od posilky, cestuju, koukám na
+          filmiky či seriály, chodím do různých podniků poznávat gastronomii,
+          stavím lego, občas něco zahraju a mega rád se učím novým věcem! 
+        image: /media/IMG_2935.jpg
       - name: James
         text: >
           Jsem trochu zmatený že života. Na Veronice je mi dobře, je to můj safe
