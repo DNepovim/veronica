@@ -13,7 +13,7 @@ text: |
 
   ## 2. Víkendovka:
 
-  16.– 18. ??. 2026 \
+  16.– 18. 10. 2026 \
   Místo se včas dozvíte
 _template: page
 ---
