@@ -1,10 +1,10 @@
 ---
 title: Přihlašování
 text: >
-  # Přihlašování pro ročník 2025:
+  # Přihlašování pro ročník 2026:
 
 
-  22.1
+  22.1-???
 
 
   # Pro koho je kurz určen:
