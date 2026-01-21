@@ -3,6 +3,9 @@ title: Tým
 teams:
   - name: Instruktorský tým
     members:
+      - name: Křečína
+        text: "Čauky, já jsem Křečína a jsem z Jihlavy. Spoluvedu vlčácký oddíl Kňouři ve středisku Divočáci. Studuji sociální činnost, ale asi jsem se v tom nenašla. Proto bych ráda pokračovala cestou učitelství a nejlépe výtvarky. Mám moc ráda umění a věci s tím spojené. Mezi další věci co mám ráda patří cestování, tvoření, strávený čas s kamarády a poznávání nových věcí. Jsem pro každou kravinu a do všeho jdu pohlavě. Určitě neodmítnu společné zpívání u ohně. Jo a hrozně nemám ráda rajčata.\n\nNa všechny z vás se hrozně těším!! Vidíme se na Verče :)\n\nPS:\_ Hele takový fun fact. Když nás někdo lechtá, tak si náš mozek myslí, že nám ta osoba chce ublížit a proto se začneme smát, aby tím jakoby obalamutil toho člověka. Jakože nás to nebolí, ale že se nám to líbí. No a tím pádem se nemůzeme polechtat sami. Zajímá mě i tvuj fun fact :)\n\n\n"
+        image: /media/7feddeb8-fe6c-43f9-9882-740ae037cedb.jpg
       - name: Kuky
         text: >
           Ahoj, jsem Kuky a tuhle rybu jsme chytili v řece Lemmenjoki v národním
