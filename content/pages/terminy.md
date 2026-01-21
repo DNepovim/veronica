@@ -3,17 +3,17 @@ title: Termíny
 text: |
   ## 1. Víkendovka:
 
-  ?? – ??.??. 2026\
+  5 – 6.6. 2026\
   Putovní, místo se včas dozvíte
 
   ## Letní část:
 
-  ??. – ??. ??. 2026 \
-  [Skautská základna Strážná](https://www.trinactka.com/strazna)
+  15. – 24. 8. 2026 \
+  Místo se včas dozvíte
 
   ## 2. Víkendovka:
 
-  ??.– ??. ??. 2026 \
+  16.– 18. ??. 2026 \
   Místo se včas dozvíte
 _template: page
 ---
