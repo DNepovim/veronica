@@ -4,7 +4,7 @@ teams:
   - name: Instruktorský tým
     members:
       - name: Kuky
-        text: >+
+        text: >
           Ahoj, jsem Kuky a tuhle rybu jsme chytili v řece Lemmenjoki v národním
           parku v Laponsku do ikea sáčku za pomoci rozžvýkaných bebeček. Kamarád
           si udělal srandu, že pokud ji chytí do pusy ze vzduchu, tak ji sní.
@@ -17,8 +17,6 @@ teams:
 
           (PS: fakt nejsem takový blbec a fakt mám ráda zvířátka!!…ale o tom si
           povíme naživo…čaučau vidíme se na Veronice!!!)
-
-
         image: /media/foto ve čtverečkovém formátu.JPG
       - name: Biváďa
         text: >
@@ -36,13 +34,13 @@ teams:
           výšku. Potrpím si na dobrý jídlo (hlavně ve velkých porcích). Rád si
           zahraju ragbýčko nebo skočím do gymu. Všechny svoje úspory utrácím za
           LEGO.
-        image: /media/34bc61c37b0fc13db1863ad49d0a91a9.jpg
+        image: /media/3.jpg
       - name: Arvos
         text: >
           Zdarec, jsem Arvos a jsem z Brna. Tady spoluvedu 18. oddíl medvědy ve
           středisku A JE TO! Mega rád chodím od posilky, cestuju, koukám na
           filmiky či seriály, chodím do různých podniků poznávat gastronomii,
-          stavím lego, občas něco zahraju a mega rád se učím novým věcem! 
+          stavím lego, občas něco zahraju a mega rád se učím novým věcem!
         image: /media/IMG_2935.jpg
       - name: James
         text: >
