@@ -8,7 +8,7 @@ text: |
 
   ## Letní část:
 
-  15. – 24. 8. 2026 \
+  15 – 24. 8. 2026 \
   Místo se včas dozvíte
 
   ## 2. Víkendovka:
