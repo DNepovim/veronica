@@ -19,7 +19,7 @@ teams:
           povíme naživo…čaučau vidíme se na Veronice!!!)
 
 
-        image: /media/IMG_7769.jpg
+        image: /media/foto ve čtverečkovém formátu.JPG
       - name: Biváďa
         text: >
           Ahoj! Jsem Biváďa, skautuju v Hradci (Jindřichově!!!) a bydlím v
