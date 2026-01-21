@@ -4,7 +4,7 @@ text: >
   # Přihlašování pro ročník 2025:
 
 
-  Je u konce, těšíme se na vás :)))
+  22.1
 
 
   # Pro koho je kurz určen:
