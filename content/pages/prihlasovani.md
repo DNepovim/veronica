@@ -7,7 +7,8 @@ text: >
   22.1. - ??.?.
 
 
-  [odkaz na přihlašování]()
+  [odkaz na
+  přihlašování](https://docs.google.com/forms/d/e/1FAIpQLSfj0dz25xDJEIcFetLpgd_SO2x7uKlvvkuu7mpmPV1-Y-Md0Q/viewform)
 
 
   # Pro koho je kurz určen:
