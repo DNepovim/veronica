@@ -3,7 +3,7 @@ title: Termíny
 text: |
   ## 1. Víkendovka:
 
-  5 – 6.6. 2026\
+  5 – 7.6. 2026\
   Putovní, místo se včas dozvíte
 
   ## Letní část:
