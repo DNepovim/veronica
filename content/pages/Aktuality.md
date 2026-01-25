@@ -15,10 +15,12 @@ teams:
         image: /media/přítomnost_nazev_kopie.jpg
       - name: Komunikace
         text: >
-          Říká se: “ty mluvíš o voze, ale já mluvim o koze.” Chceš tomu
-          předcházet? Na Veronice se pokusíme porozumět samy\*i sobě i ostatním,
-          komunikovat své pocity a potřeby a posílit schopnosti aktivně
-          naslouchat svému okolí.
+          Komunikace je jako hra, kterou nejde hrát v jednom.
+
+          Chceš zjistit, jak vyložit karty na stůl, kdy si stát za svým a kdy
+          naopak dát prostor druhým? Pojeď s námi zkoumat, co dělat, když ti
+          někdo leze na píseček, jak tvořit bezpečný prostor a mluvit o věcech
+          tak, aby to v týmu fungovalo.
         image: /media/komunikace_nazev_kopie.jpg
 _template: team
 ---
