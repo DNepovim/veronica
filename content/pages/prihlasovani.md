@@ -1,30 +1,19 @@
 ---
 title: Přihlašování
-text: >
+text: |
   # Přihlašování pro ročník 2026:
-
 
   22.1. - ??.?.
 
-
-  [odkaz na
-  přihlašování](https://docs.google.com/forms/d/e/1FAIpQLSfj0dz25xDJEIcFetLpgd_SO2x7uKlvvkuu7mpmPV1-Y-Md0Q/viewform)
-
+  [odkaz na přihlašování](https://docs.google.com/forms/d/e/1FAIpQLSfj0dz25xDJEIcFetLpgd_SO2x7uKlvvkuu7mpmPV1-Y-Md0Q/viewform)
 
   # Pro koho je kurz určen:
 
-
-  Kurz je určen pro všechny rovery/rangers/\* ve věku od 16 do 21 let, kteří se
-  zajímají o sebe, svět a mají touhu poznávat. Ačkoliv je lesní kurz Veronica
-  sesterským kurzem čekatelského lesního kurzu Rozrazil, absolvence Rozrazilu
-  ani čekatelská zkouška nejsou podmínkou.
-
+  Kurz je určen pro všechny rovery/rangers/\* ve věku od 16 do 21 let, kteří se zajímají o sebe, svět a mají touhu poznávat. Ačkoliv je lesní kurz Veronica sesterským kurzem čekatelského lesního kurzu Rozrazil, absolvence Rozrazilu ani čekatelská zkouška nejsou podmínkou.
 
   # Cena:
 
-
-  Cena letošního kurzu bude okolo 3 000,- Kč. Přesná cena bude upřesněna s
-  dostatečným předstihem.
+  Cena letošního kurzu bude okolo 3 000,- Kč. Přesná cena bude upřesněna s dostatečným předstihem.
 _template: page
 ---
 
