@@ -9,7 +9,7 @@ text: |
   ## Letní část:
 
   15 – 24. 8. 2026 \
-  Místo se včas dozvíte
+  [odkaz na základnu](https://hranicar.skauting.cz/chata-hajenka/?fbclid=IwY2xjawQJMZZleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAEwAAEeMHwBDhMsrai24UOmzWX1jSshhw_K7pqvOsAArjfZOBgYT5OoCpg9oID-sjI_aem_3Mn4oMnQmat2WQFK1WjwFQ)
 
   ## 2. Víkendovka:
 
