@@ -5,7 +5,7 @@ text: |
 
   22.1. - ??.?.
 
-  [odkaz na přihlašování](https://docs.google.com/forms/d/e/1FAIpQLSfj0dz25xDJEIcFetLpgd_SO2x7uKlvvkuu7mpmPV1-Y-Md0Q/viewform)
+  [odkaz na přihlašování](https://kurzy.skaut.cz/event-educations/3505?SortBy=PRIHLASOVANI)
 
   # Pro koho je kurz určen:
 
