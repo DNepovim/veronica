@@ -13,7 +13,7 @@ text: |
 
   # Cena:
 
-  Cena letošního kurzu bude okolo 4 000,- Kč. Přesná cena bude upřesněna s dostatečným předstihem.
+  Cena letošního kurzu bude 4 000,- Kč. 
 _template: page
 ---
 
