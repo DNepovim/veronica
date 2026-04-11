@@ -3,9 +3,8 @@ title: Aktuality
 teams:
   - name: ročník 2026
     members:
-      - name: už se vaří
-        text: |
-          pro víc info sleduj náš Instagram!
+      - name: už se vaří... pro víc info sleduj náš Instagram!
+        text: ''
   - name: na co se můžeš těšit?
     members:
       - name: Sebevědomí
