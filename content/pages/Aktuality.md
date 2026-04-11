@@ -4,7 +4,8 @@ teams:
   - name: ročník 2026
     members:
       - name: už se vaří
-        text: ''
+        text: |
+          pro víc info sleduj náš Instagram!
   - name: na co se můžeš těšit?
     members:
       - name: Sebevědomí
