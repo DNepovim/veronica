@@ -13,9 +13,9 @@ text: |
 
   # Cena:
 
-  Výdaje za kurz činí 4000 Kč na letní část a výdaje v řádech stovek za víkendovky. Doporučujeme si zjistit možnost příspěvku na kurz od vašeho střediska. 
+  Výdaje za kurz činí 4000 Kč za letní část a výdaje v řádech stovek za víkendovky. Doporučujeme si zjistit možnost příspěvku na kurz od vašeho střediska.
 
-  V případě zrušení účasti se na výši storno poplatku případně domluvíme. 
+  V případě zrušení účasti se na výši storno poplatku případně domluvíme.
 _template: page
 ---
 
