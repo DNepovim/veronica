@@ -3,7 +3,7 @@ title: Aktuality
 teams:
   - name: ročník 2026
     members:
-      - name: už se vaří.
+      - name: už se vaří
         text: ''
   - name: na co se můžeš těšit?
     members:
