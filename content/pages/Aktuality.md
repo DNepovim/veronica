@@ -4,7 +4,8 @@ teams:
   - name: ročník 2026
     members:
       - name: už se vaří... pro víc info sleduj náš Instagram!
-        text: ''
+        text: |
+          [https://www.instagram.com/lk\_veronica/](https://www.instagram.com/lk_veronica/)
   - name: na co se můžeš těšit?
     members:
       - name: Sebevědomí
