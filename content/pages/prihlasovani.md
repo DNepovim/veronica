@@ -3,7 +3,7 @@ title: Přihlašování
 text: |
   # Přihlašování pro ročník 2026:
 
-  22.1. - 30.4.
+  končí 30. dubna!
 
   [odkaz na přihlašování](https://kurzy.skaut.cz/event-educations/3505?SortBy=PRIHLASOVANI)
 
@@ -13,7 +13,9 @@ text: |
 
   # Cena:
 
-  Cena letošního kurzu bude 4 000,- Kč. 
+  Výdaje za kurz činí 4000 Kč na letní část a výdaje v řádech stovek za víkendovky. Doporučujeme si zjistit možnost příspěvku na kurz od vašeho střediska. 
+
+  V případě zrušení účasti se na výši storno poplatku případně domluvíme. 
 _template: page
 ---
 
