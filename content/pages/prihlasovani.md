@@ -3,7 +3,7 @@ title: Přihlašování
 text: |
   # Přihlašování pro ročník 2026:
 
-  končí 14.5.!
+  končí 30.6.!
 
   [odkaz na přihlašování](https://kurzy.skaut.cz/event-educations/3505?SortBy=PRIHLASOVANI)
 
