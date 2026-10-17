@@ -71,6 +71,9 @@ teams:
         image: /media/b&w_medailonek fotka.jpg
   - name: Starci
     members:
+      - name: Jůla
+        text: "ČÉGO ČAU will the real slim Jůla please stand up\_\n\njes\_\n\nvěř že nejsem srab\n\na nejde ze mě smrad\n\nnikdy v životě jsem neměla svrab\n\nmyšlenka tohohle textu mi nějak utíká\_\n\nnesnáším budíka\n\na aspika\n\nnejlepší na světě je na rohlíku nutelka\n\nmám ráda brumíka\n\nkafe bez mlíka\n\nkdybych byla rapper jmenovala bych se Jeminem\n\nprotančím makarenou prostorem\n\nasi už toho bylo dost\n\nmáma řekla že je mi na tohle moc\n\ntakže:\_\n\nRáda povídám, ráda poslouchám, ráda koukám, ráda zpívám, ráda tančím, ráda jím, ráda sním, ráda spím No asi prostě ráda jsem\n"
+        image: /media/ja.jpg
       - name: Klárka
         text: |
           Ahojky! Jsem Klára z Brna a už několikátým rokem vedu v našem oddílu Allium. Ve volném čase nejraději lepím koláže, obrážím čtenářské kluby, věnuju se divadlu nebo připravuju osmichodové snídaně pro moje kámošstvo. Aktuálně jsem propadla kouzlo lezení a hraní karet u piva, haha. Veronica je pro mě místo, kde se můžu posouvat, poznávat a překonávat sebe sama, a zároveň prostředím, kde se cítím bezpečně na sdílení a předávání myšlenek a zkušeností.
