@@ -1,11 +1,9 @@
 ---
 title: Přihlašování
 text: |
-  # Přihlašování pro ročník 2026:
+  # Přihlašování pro ročník 2027:
 
-  končí 30.6.!
-
-  [odkaz na přihlašování](https://kurzy.skaut.cz/event-educations/3505?SortBy=PRIHLASOVANI)
+  spustíme 12. prosince 2026!
 
   # Pro koho je kurz určen:
 
@@ -13,7 +11,7 @@ text: |
 
   # Cena:
 
-  Výdaje za kurz činí 4000 Kč za letní část a výdaje v řádech stovek za víkendovky. Doporučujeme si zjistit možnost příspěvku na kurz od vašeho střediska.
+  Výdaje za kurz činí kolem 4000 Kč za letní část + výdaje v řádech stovek za víkendovky. Doporučujeme si zjistit možnost příspěvku na kurz od vašeho střediska.
 
   V případě zrušení účasti se na výši storno poplatku domluvíme.
 _template: page
