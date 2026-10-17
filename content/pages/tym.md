@@ -3,6 +3,9 @@ title: Tým
 teams:
   - name: Instruktorský tým
     members:
+      - name: Tuli
+        text: "Jsem tuli, ale vůbec se tak nejmenuju. Skautuju už hrozně dlouho v Brně-Líšni a\n\nVeronica je pro mě z instruktorskýho pohledu novej vesmír, stejně jako je pro tebe z toho účastnickýho.\_\n\nMám ráda barevno a kreativno, poslouchám hodně hudby, čtu a taky skejtuju. I přes svoji introvertní duši si ráda ordinuju věci mimo svoji komfortní zónu. Jsem organizační freak, takže když u sebe nemám diář, schůzku si se mnou nedomluvíš\\:D. Taky jsem zastánce dlouhých konverzací mezi málo očima a jen tak bytí (na kterým ještě pracuju).\n\nStuduju socped na fildě v Brně.\n\n\n"
+        image: /media/476375064_1794933141288902_1807899079924149835_n (1).jpg
       - name: Jojo
         text: |
           Jsem Jojo. Ráda dělám v životě věci, co mi dávají smysl a který můžu dělat s lidma, se kterejma je mi dobře. Proto vedu už čtvrtým rokem náš smíšený 16. oddíl Allium v Brně a přelétám mezi ČLK Rozrazilem a LK Veronicou. Na bakaláři jsem byla na Divadelní produkci, ale nedávalo mi to smysl, a tak jsem to nedělala ráda. Zkouším teď najít smysl v oboru Andragogika, tak třeba z toho kápnou nějaký zkušenosti, který zužitkuju aji tady na Verči. Baví mě jóga, focení a šíleně ráda se saunuju a trochu otužuju. V dalším volným čase venčim našeho šílenýho psa Bedřicha, se kterým už tak více méně omylem třetím rokem bydlím. Nesnáším hlasový zprávy a praní oblečení, zato ráda meju nádobí a uklízím, hlavně když jsem naštvaná. Mám uplně terrible english, takže se snažim s tim něco dělat, tudíž je ze mě teď Potterholička, protože jsem se rozhodla přečíst všech sedm dílů anglicky.
