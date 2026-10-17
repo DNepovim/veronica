@@ -1,9 +1,9 @@
 ---
 title: Aktuality
 teams:
-  - name: ročník 2026
+  - name: ročník 2027
     members:
-      - name: už se vaří... pro víc info sleduj náš Instagram!
+      - name: Už se vaří... Pro víc info sleduj náš Instagram!
         text: |
           [https://www.instagram.com/lk\_veronica/](https://www.instagram.com/lk_veronica/)
   - name: na co se můžeš těšit?
