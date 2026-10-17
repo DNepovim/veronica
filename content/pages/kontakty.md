@@ -1,7 +1,7 @@
 ---
 title: Kontakty
 text: |
-  ## Oficiální kontaktní adresa:
+  E-mail:
 
   [lkveronica@gmail.com](mailto:lkveronica@gmail.com)
 
@@ -11,9 +11,7 @@ text: |
 
   ## Adam Hort – James
 
-  [adam.hort.morfy@gmail.com](mailto:koutnyyradim1@skaut.cz)
-
-  +420 603 102 414
+  [adam.hort.morfy@gmail.com](mailto:koutnyyradim1@skaut.cz), tel. +420 603 102 414
 _template: page
 ---
 
