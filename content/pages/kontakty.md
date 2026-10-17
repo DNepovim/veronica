@@ -1,7 +1,7 @@
 ---
 title: Kontakty
 text: |
-  E-mail:
+  ## E-mail:
 
   [lkveronica@gmail.com](mailto:lkveronica@gmail.com)
 
