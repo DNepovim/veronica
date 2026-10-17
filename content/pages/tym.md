@@ -3,6 +3,17 @@ title: Tým
 teams:
   - name: Instruktorský tým
     members:
+      - name: James
+        text: |
+          Jsem trochu zmatený že života. Na Veronice je mi dobře, je to můj safe space. Většinou jsem spoko a dělám věci a říkám slova, ale teď když tohle píšu je zima a tma a nechci psát kýč. Tak si se mnou přijď povídat o kafi nebo světě nebo knížkách nebo nepovídat a jen sedět a koukat na rybník nebo hrát deskovky nebo hrát nedeskovky a žít život. Moc se těším :)
+        image: /media/james1.jpg
+      - name: Jusťa
+        text: "Jsem Jusťa. Trochu chaotička, trochu entusiastka, která ráda sdílí své vědomosti a zkušenosti s ostatními a zároveň se od nich učí.\n\nMiluju cestování, pohyb, hudbu, deep konverzace a zkoušení nových věcí. Často nevím, co vlastně chci, a tak se snažím objevovat a zkoušet.\_\n\nMoje aktuální challenge je zpomalit, prostě být a nesnažit se pořád za něčím hnát. Mám tendenci vrhat se do všeho, co mě nadchne, ale pak se snadno zahltím a hledám rovnováhu.\n\nStuduju sociální pedagogiku, lektoruji primární prevenci ve Skautském Institutu a Nevypusť duši. Jsem součástí výchovného zpravodajstva mého střediska, trénuji plavání, piju dobrý kafe a mluvím a směju se nahlas.\n\nTěším se na další lidi, které na Veronice poznám, tak neváhej a přihlaš se!\n"
+        image: /media/IMG_9149.jpg
+      - name: Čenda
+        text: |
+          ahoj, sem Čenda a sem z Brna. Už několikátým rokem tu vedu chlapecký oddíl Orion, a pořád mě to baví. K tomu mě letos ještě uchvátila Verca, a myslím, že mě to bude bavit taky :). V životě se furt tak nějak hodně hledám, a velmi často zkouším nové věci, u kterých pak zůstanu, a nebo si najdu nějaké další. A že se jich teď docela nakupilo! Moc rád fotím, jezdím na kole, jednokolce či skejtu, běhám, boulderuju, kreslím a tetuju, miluju cestování a poznávání nových lidí - a moc se těším, až na Verci poznám spoustu super dalších!
+        image: /media/6a592b6e-f8b8-4557-92a7-08b0af9da72a.jpg
       - name: Tuli
         text: "Jsem tuli, ale vůbec se tak nejmenuju. Skautuju už hrozně dlouho v Brně-Líšni a\n\nVeronica je pro mě z instruktorskýho pohledu novej vesmír, stejně jako je pro tebe z toho účastnickýho.\_\n\nMám ráda barevno a kreativno, poslouchám hodně hudby, čtu a taky skejtuju. I přes svoji introvertní duši si ráda ordinuju věci mimo svoji komfortní zónu. Jsem organizační freak, takže když u sebe nemám diář, schůzku si se mnou nedomluvíš\\:D. Taky jsem zastánce dlouhých konverzací mezi málo očima a jen tak bytí (na kterým ještě pracuju).\n\nStuduju socped na fildě v Brně.\n\n\n"
         image: /media/476375064_1794933141288902_1807899079924149835_n (1).jpg
@@ -10,9 +21,6 @@ teams:
         text: |
           Jsem Jojo. Ráda dělám v životě věci, co mi dávají smysl a který můžu dělat s lidma, se kterejma je mi dobře. Proto vedu už čtvrtým rokem náš smíšený 16. oddíl Allium v Brně a přelétám mezi ČLK Rozrazilem a LK Veronicou. Na bakaláři jsem byla na Divadelní produkci, ale nedávalo mi to smysl, a tak jsem to nedělala ráda. Zkouším teď najít smysl v oboru Andragogika, tak třeba z toho kápnou nějaký zkušenosti, který zužitkuju aji tady na Verči. Baví mě jóga, focení a šíleně ráda se saunuju a trochu otužuju. V dalším volným čase venčim našeho šílenýho psa Bedřicha, se kterým už tak více méně omylem třetím rokem bydlím. Nesnáším hlasový zprávy a praní oblečení, zato ráda meju nádobí a uklízím, hlavně když jsem naštvaná. Mám uplně terrible english, takže se snažim s tim něco dělat, tudíž je ze mě teď Potterholička, protože jsem se rozhodla přečíst všech sedm dílů anglicky.
         image: /media/Jojo1.jpg
-      - name: Jůla
-        text: "ČÉGO ČAU                                                                                                                                                                             will the real slim Jůla please stand up\_\n\njes\_\n\nvěř že nejsem srab\n\na nejde ze mě smrad\n\nnikdy v životě jsem neměla svrab\n\nmyšlenka tohohle textu mi nějak utíká\_\n\nnesnáším budíka\n\na aspika\n\nnejlepší na světě je na rohlíku nutelka\n\nmám ráda brumíka\n\nkafe bez mlíka\n\nkdybych byla rapper jmenovala bych se Jeminem\n\nprotančím makarenou prostorem\n\nasi už toho bylo dost\n\nmáma řekla že je mi na tohle moc\n\ntakže:\_\n\nRáda povídám, ráda poslouchám, ráda koukám, ráda zpívám, ráda tančím, ráda jím, ráda sním, ráda spím                        No asi prostě ráda jsem\n"
-        image: /media/ja.jpg
       - name: Křečína
         text: "Čauky, já jsem Křečína a jsem z Jihlavy. Spoluvedu vlčácký oddíl Kňouři ve středisku Divočáci. Studuji sociální činnost, ale asi jsem se v tom nenašla. Proto bych ráda pokračovala cestou učitelství a nejlépe výtvarky. Mám moc ráda umění a věci s tím spojené. Mezi další věci co mám ráda patří cestování, tvoření, strávený čas s kamarády a poznávání nových věcí. Jsem pro každou kravinu a do všeho jdu pohlavě. Určitě neodmítnu společné zpívání u ohně. Jo a hrozně nemám ráda rajčata.\n\nNa všechny z vás se hrozně těším!! Vidíme se na Verče :)\n\nPS:\_ Hele takový fun fact. Když nás někdo lechtá, tak si náš mozek myslí, že nám ta osoba chce ublížit a proto se začneme smát, aby tím jakoby obalamutil toho člověka. Jakože nás to nebolí, ale že se nám to líbí. No a tím pádem se nemůzeme polechtat sami. Zajímá mě i tvuj fun fact :)\n"
         image: /media/7feddeb8-fe6c-43f9-9882-740ae037cedb.jpg
@@ -33,17 +41,6 @@ teams:
       - name: Arvos
         text: "Zdarec, jsem Arvos a jsem z Brna. Tam spoluvedu 18. oddíl medvědi ve středisku A JE TO! Mega rád chodím od posilky, cestuju, koukám na filmiky či seriály, chodím do různých podniků poznávat gastronomii, stavím lego, občas něco zahraju a mega rád se učím novým věcem!\_\n\nTaky rád rozjíždím nový věci a několik jich na sobě, což občas je trochu pain, ale mega mě baví být pod tím stresem \\:Dd.\n\nNa Verče jsem teď nově a mega se těším až o něčem pokecáme ! (:\n"
         image: /media/1 (2).jpg
-      - name: James
-        text: |
-          Jsem trochu zmatený že života. Na Veronice je mi dobře, je to můj safe space. Většinou jsem spoko a dělám věci a říkám slova, ale teď když tohle píšu je zima a tma a nechci psát kýč. Tak si se mnou přijď povídat o kafi nebo světě nebo knížkách nebo nepovídat a jen sedět a koukat na rybník nebo hrát deskovky nebo hrát nedeskovky a žít život. Moc se těším :)
-        image: /media/james1.jpg
-      - name: Čenda
-        text: |
-          ahoj, sem Čenda a sem z Brna. Už několikátým rokem tu vedu chlapecký oddíl Orion, a pořád mě to baví. K tomu mě letos ještě uchvátila Verca, a myslím, že mě to bude bavit taky :). V životě se furt tak nějak hodně hledám, a velmi často zkouším nové věci, u kterých pak zůstanu, a nebo si najdu nějaké další. A že se jich teď docela nakupilo! Moc rád fotím, jezdím na kole, jednokolce či skejtu, běhám, boulderuju, kreslím a tetuju, miluju cestování a poznávání nových lidí - a moc se těším, až na Verci poznám spoustu super dalších!
-        image: /media/6a592b6e-f8b8-4557-92a7-08b0af9da72a.jpg
-      - name: Jusťa
-        text: "Jsem Jusťa. Trochu chaotička, trochu entusiastka, která ráda sdílí své vědomosti a zkušenosti s ostatními a zároveň se od nich učí.\n\nMiluju cestování, pohyb, hudbu, deep konverzace a zkoušení nových věcí. Často nevím, co vlastně chci, a tak se snažím objevovat a zkoušet.\_\n\nMoje aktuální challenge je zpomalit, prostě být a nesnažit se pořád za něčím hnát. Mám tendenci vrhat se do všeho, co mě nadchne, ale pak se snadno zahltím a hledám rovnováhu.\n\nStuduju sociální pedagogiku, lektoruji primární prevenci ve Skautském Institutu a Nevypusť duši. Jsem součástí výchovného zpravodajstva mého střediska, trénuji plavání, piju dobrý kafe a mluvím a směju se nahlas.\n\nTěším se na další lidi, které na Veronice poznám, tak neváhej a přihlaš se!\n"
-        image: /media/IMG_9149.jpg
   - name: Servis tým
     members:
       - name: Kenny
