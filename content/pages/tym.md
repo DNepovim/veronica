@@ -3,6 +3,10 @@ title: Tým
 teams:
   - name: Instruktorský tým
     members:
+      - name: Jojo
+        text: |
+          Jsem Jojo. Ráda dělám v životě věci, co mi dávají smysl a který můžu dělat s lidma, se kterejma je mi dobře. Proto vedu už čtvrtým rokem náš smíšený 16. oddíl Allium v Brně a přelétám mezi ČLK Rozrazilem a LK Veronicou. Na bakaláři jsem byla na Divadelní produkci, ale nedávalo mi to smysl, a tak jsem to nedělala ráda. Zkouším teď najít smysl v oboru Andragogika, tak třeba z toho kápnou nějaký zkušenosti, který zužitkuju aji tady na Verči. Baví mě jóga, focení a šíleně ráda se saunuju a trochu otužuju. V dalším volným čase venčim našeho šílenýho psa Bedřicha, se kterým už tak více méně omylem třetím rokem bydlím. Nesnáším hlasový zprávy a praní oblečení, zato ráda meju nádobí a uklízím, hlavně když jsem naštvaná. Mám uplně terrible english, takže se snažim s tim něco dělat, tudíž je ze mě teď Potterholička, protože jsem se rozhodla přečíst všech sedm dílů anglicky.
+        image: /media/Jojo1.jpg
       - name: Jůla
         text: "ČÉGO ČAU                                                                                                                                                                             will the real slim Jůla please stand up\_\n\njes\_\n\nvěř že nejsem srab\n\na nejde ze mě smrad\n\nnikdy v životě jsem neměla svrab\n\nmyšlenka tohohle textu mi nějak utíká\_\n\nnesnáším budíka\n\na aspika\n\nnejlepší na světě je na rohlíku nutelka\n\nmám ráda brumíka\n\nkafe bez mlíka\n\nkdybych byla rapper jmenovala bych se Jeminem\n\nprotančím makarenou prostorem\n\nasi už toho bylo dost\n\nmáma řekla že je mi na tohle moc\n\ntakže:\_\n\nRáda povídám, ráda poslouchám, ráda koukám, ráda zpívám, ráda tančím, ráda jím, ráda sním, ráda spím                        No asi prostě ráda jsem\n"
         image: /media/ja.jpg
@@ -77,9 +81,6 @@ teams:
 
           Víš, proč má datel zobák? Ne? A chceš to vědět? Tak pojeď na Veronicu. ;)
         image: /media/IMG_2353.jpg
-      - name: Tuli
-        text: "Jsem tuli, ale vůbec se tak nejmenuju. Skautuju už hrozně dlouho v Brně-Líšni a\n\nVeronica je pro mě z instruktorskýho pohledu novej vesmír, stejně jako je pro tebe z toho účastnickýho.\_\n\nMám ráda barevno a kreativno, poslouchám hodně hudby, čtu a taky skejtuju. I přes svoji introvertní duši si ráda ordinuju věci mimo svoji komfortní zónu. Jsem organizační freak, takže když u sebe nemám diář, schůzku si se mnou nedomluvíš\\:D. Taky jsem zastánce dlouhých konverzací mezi málo očima a jen tak bytí (na kterým ještě pracuju).\n\nStuduju socped na fildě v Brně.\n"
-        image: /media/476375064_1794933141288902_1807899079924149835_n (1).jpg
       - name: Pája
         text: |
           Ahoj, jmenuji se Pája. Jsem z Brna, kde i v 16. oddílu Allium už třetím rokem skautuju. Často mě můžete vidět se hodně smát nebo háčkovat cokoliv užitečného i neužitečného. Ráda hledám nové činnosti, které mě budou bavit a dávat smysl dělat. Začala jsem takhle například šít ledvinky z upcyklovaného materiálu nebo objevuji méně známé české kapely a chození na jejich koncerty je už takový můj denní chleba. Dokončuji tento rok střední pedagogickou školu se specializací dramaťáku a chtěla bych se dále profilovat v environmentu nebo pedagogice.
@@ -99,10 +100,6 @@ teams:
         text: |
           Utekla jsem z Prahy do Brna a je to super. Studuji divadelní produkci a ačkoliv divadlo miluju, z toho produkčního pohledu mě to tak moc neba. Radši dělám fesťáky, koncerty, akcičky. Ale tohle není profesní záměr, tohle je instruktorský medailonek. Neskromně přiznávám, že jsem definice balancu mezi punkem a puntíčkářstvím. Nějakou dobu jsem na Veronice vařila super mňamky, tak uvidíme, jaké budu vařit programy. Ve skautské lince svého života pět let vedu oddíl, pár let jsem působila na Žirafě Střed a dělám produkci pro Časopis Skaut. Kdybych byla jídlo, budu kynuté těsto, protože umím solidně vybobtnat a když se na tebe přilepím, už se mě jen tak nezbavíš. Ale to zjistíš na kurzu. Zeptej se mě na cokoliv, jsem otevřená kniha a nic pro mě není tabu. Jo a kdyby ti přišlo, že jsem až moc cool a nějak tě to omezovalo, klidně řekni, něco s tím provedem. Těším se na tebe! Marie (tak mi klíďo říkej, mám to ráda)
         image: /media/IMG_2572.jpg
-      - name: Jojo
-        text: |
-          Jsem Jojo. Ráda dělám v životě věci, co mi dávají smysl a který můžu dělat s lidma, se kterejma je mi dobře. Proto vedu už čtvrtým rokem náš smíšený 16. oddíl Allium v Brně a přelétám mezi ČLK Rozrazilem a LK Veronicou. Na bakaláři jsem byla na Divadelní produkci, ale nedávalo mi to smysl, a tak jsem to nedělala ráda. Zkouším teď najít smysl v oboru Andragogika, tak třeba z toho kápnou nějaký zkušenosti, který zužitkuju aji tady na Verči. Baví mě jóga, focení a šíleně ráda se saunuju a trochu otužuju. V dalším volným čase venčim našeho šílenýho psa Bedřicha, se kterým už tak více méně omylem třetím rokem bydlím. Nesnáším hlasový zprávy a praní oblečení, zato ráda meju nádobí a uklízím, hlavně když jsem naštvaná. Mám uplně terrible english, takže se snažim s tim něco dělat, tudíž je ze mě teď Potterholička, protože jsem se rozhodla přečíst všech sedm dílů anglicky.
-        image: /media/Jojo1.jpg
       - name: Radim
         text: "Jsem Radim a jsem podobnej rozpláclé plastelíně na stěně. Když už tam jednou je, tak nejde vůbec dolů a když už se vám podaří ji sundat, tak po sobě zanechá mastnej flek. Mám rád lidi a rád s nimi i pracuju. Přece jenom se už téměř 26 let součástí společnosti. Rád si dělám legraci, přestože jsem občas sám vážnej, tak vážnost v oblibě moc nemám, naopak mě fascinuje lehkost, se kterou jsou lidé schopni přistupovat ke světu. Dřív jsem se věnoval roverskému kmeni Sürius v Brněnském Kompasu. Vedl jsem nějaké ty kluky a holky, ale dnes už jsem spíš mimo aktivní skautský svět. Skauty nahradilo studium architektury a dalších příbuzných kreativních oborů. Rád přemýšlím nad děním kolem mě, proto může být občas náročné se mnou vést konverzaci, o to víc si vážím pokud někdo nesouhlasí! Rád si zároveň poslechnu novou hudbu, zajdu na zajímavej event, nebo prostě jen na prochajdu.\_\n"
         image: /media/radim1.jpg
