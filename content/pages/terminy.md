@@ -4,7 +4,7 @@ text: |
   ## 1. víkendovka:
 
   4.–6. června 2027\
-  Putovní (místo včas zveřejníme)
+  putovní (místo včas zveřejníme)
 
   ## Letní část:
 
