@@ -9,8 +9,15 @@ teams:
           Jsem trochu zmatený že života. Na Veronice je mi dobře, je to můj safe space. Většinou jsem spoko a dělám věci a říkám slova, ale teď když tohle píšu je zima a tma a nechci psát kýč. Tak si se mnou přijď povídat o kafi nebo světě nebo knížkách nebo nepovídat a jen sedět a koukat na rybník nebo hrát deskovky nebo hrát nedeskovky a žít život. Moc se těším :)
         image: /media/james1.jpg
       - name: Jusťa
-        text: "Jsem Jusťa. Trochu chaotička, trochu entusiastka, která ráda sdílí své vědomosti a zkušenosti s ostatními a zároveň se od nich učí.\n\nMiluju cestování, pohyb, hudbu, deep konverzace a zkoušení nových věcí. Často nevím, co vlastně chci, a tak se snažím objevovat a zkoušet.\_\n\nMoje aktuální challenge je zpomalit, prostě být a nesnažit se pořád za něčím hnát. Mám tendenci vrhat se do všeho, co mě nadchne, ale pak se snadno zahltím a hledám rovnováhu.\n\nStuduju sociální pedagogiku, lektoruji primární prevenci ve Skautském Institutu a Nevypusť duši. Jsem součástí výchovného zpravodajstva mého střediska, trénuji plavání, piju dobrý kafe a mluvím a směju se nahlas.\n\nTěším se na další lidi, které na Veronice poznám, tak neváhej a přihlaš se!\n"
-        image: /media/IMG_9149.jpg
+        text: |
+          Jsem Jusťa a mám potřebu měnit věci, hýbat světem. Vidím hodně věcí, co nefungují, a kdybych jen stála a koukala, asi bych se zbláznila. Musím s tím něco dělat, věci mi nejsou jedno a nonšalance je mi vzdálená ;)
+
+          Studuji sociální pedagogiku, lektoruju primární prevenci ve Skautském institutu a v organizaci Nevypusť duši. Jsem součástí výchovného zpravodajstva mého střediska, trénuju plavání, piju dobré kafe a mluvím a směju se nahlas.
+
+          Miluju výměnu slov s lidmi, cestování, pohyb, hudbu a objevování nových věcí.
+
+          Těším se na další lidi, které na Veronice poznám, tak neváhej a přihlaš se!
+        image: /media/IMG_7544 2.jpg
       - name: Čenda
         text: |
           ahoj, sem Čenda a sem z Brna. Už několikátým rokem tu vedu chlapecký oddíl Orion, a pořád mě to baví. K tomu mě letos ještě uchvátila Verca, a myslím, že mě to bude bavit taky :). V životě se furt tak nějak hodně hledám, a velmi často zkouším nové věci, u kterých pak zůstanu, a nebo si najdu nějaké další. A že se jich teď docela nakupilo! Moc rád fotím, jezdím na kole, jednokolce či skejtu, běhám, boulderuju, kreslím a tetuju, miluju cestování a poznávání nových lidí - a moc se těším, až na Verci poznám spoustu super dalších!
