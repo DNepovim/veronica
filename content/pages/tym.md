@@ -10,11 +10,11 @@ teams:
         image: /media/james1.jpg
       - name: Jusťa
         text: |
-          Jsem Jusťa a mám potřebu měnit věci, hýbat světem. Vidím hodně věcí, co nefungují, a kdybych jen stála a koukala, asi bych se zbláznila. Musím s tím něco dělat, věci mi nejsou jedno a nonšalance je mi vzdálená ;)
+          Jsem Jusťa a mám potřebu měnit věci, hýbat světem. Když vidím věci co nefungují, nedokážu jen stát a koukat, to bych se asi zbláznila. Musím s tím něco dělat, věci mi nejsou jedno a nonšalance je mi vzdálená ;)
 
           Studuji sociální pedagogiku, lektoruju primární prevenci ve Skautském institutu a v organizaci Nevypusť duši. Jsem součástí výchovného zpravodajstva mého střediska, trénuju plavání, piju dobré kafe a mluvím a směju se nahlas.
 
-          Miluju výměnu slov s lidmi, cestování, pohyb, hudbu a objevování nových věcí.
+          Miluju sdílet slova s lidmi, cestování, pohyb, hudbu a objevování nových věcí.
 
           Těším se na další lidi, které na Veronice poznám, tak neváhej a přihlaš se!
         image: /media/IMG_7544 2.jpg
